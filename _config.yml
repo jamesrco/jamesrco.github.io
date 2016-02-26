@@ -1,0 +1,23 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Jamie Collins
+email: james.r.collins@aya.yale.edu
+description: > # this means to ignore newlines until "baseurl:"
+  Jamie Collins, marine biogeochemist in the MIT/WHOI Joint Program in Oceanography. Code, data, and a bit about me.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: “http://jamesrco.github.io” # the base hostname & protocol for your site
+twitter_username: jamesrco
+github_username:  jamesrco
+
+# Build Settings
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM
