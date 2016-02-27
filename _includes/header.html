@@ -12,7 +12,7 @@
         </div>
         <div id="navbar" class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
-            <li {% if page.title == 'Home' %}{{ "class="active"" }}{% endif %}><a href="/">Home</a></li>
+            <li {% if page.title == 'Home' %}{% raw %}class="active"{% endraw %}{% endif %}><a href="/">Home</a></li>
               <li class="dropdown{% if page.title == 'About' or page.title == 'Brief Bio' or page.title == 'Research' or page.title == 'CV' or page.title == 'Contact'%}{{ " active" }}{% endif %}">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About<span class="caret"></span></a>
               <ul class="dropdown-menu">
@@ -22,9 +22,9 @@
                 <li><a href="/contact/">Contact</a></li>
               </ul>
             </li>
-            <li {% if page.title == 'Code' %}{{ "class="active"" }}{% endif %}><a href="/code/">Code</a></li>
-            <li {% if page.title == 'Data' %}{{ "class="active"" }}{% endif %}><a href="/data/">Data</a></li>
-            <li {% if page.title == 'Random & Useful' %}{{ "class="active"" }}{% endif %}><a href="/stuff/">Random & Useful</a></li>
+            <li {% if page.title == 'Code' %}{% raw %}class="active"{% endraw %}{% endif %}><a href="/code/">Code</a></li>
+            <li {% if page.title == 'Data' %}{% raw %}class="active"{% endraw %}{% endif %}><a href="/data/">Data</a></li>
+            <li {% if page.title == 'Random & Useful' %}{% raw %}class="active"{% endraw %}{% endif %}><a href="/stuff/">Random & Useful</a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
