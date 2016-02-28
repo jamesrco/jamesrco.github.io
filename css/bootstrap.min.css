@@ -11,7 +11,9 @@ html {
     -ms-text-size-adjust: 100%
 }
 body {
-    margin: 0
+    margin: 0;
+	min-height: 30px;
+	padding-top: 30px;
 }
 article,
 aside,
@@ -1581,6 +1583,12 @@ pre code {
     overflow-y: scroll
 }
 .container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto
+}
+.container-pages {
     padding-right: 15px;
     padding-left: 15px;
     margin-right: auto;
@@ -3619,7 +3627,7 @@ tbody.collapse.in {
     min-width: 160px;
     padding: 5px 0;
     margin: 2px 0 0;
-    font-size: 16px;
+    font-size: 14px;
     text-align: left;
     list-style: none;
     background-color: #fff;
@@ -4257,8 +4265,9 @@ textarea.input-group-sm>.input-group-btn>.btn {
 }
 .navbar {
     position: relative;
-    min-height: 60px;
-    margin-bottom: 20px;
+    min-height: 30px; /* 50px */
+    margin-bottom: 0px; /* 20px */
+	margin-left: -25px;
     border: 1px solid transparent
 }
 @media (min-width: 768px) {
@@ -4365,8 +4374,8 @@ textarea.input-group-sm>.input-group-btn>.btn {
 }
 .navbar-brand {
     float: left;
-    height: 60px;
-    padding: 10px 15px;
+    height: 30px; /* 50px */
+    padding: 15px 15px; /* 15px 15px */
     font-size: 18px;
     line-height: 20px
 }
@@ -4387,9 +4396,9 @@ textarea.input-group-sm>.input-group-btn>.btn {
     position: relative;
     float: right;
     padding: 9px 10px;
-    margin-top: 8px;
+    margin-top: 8px; /* 8px */
     margin-right: 15px;
-    margin-bottom: 8px;
+    margin-bottom: 8px; /* 8px */
     background-color: transparent;
     background-image: none;
     border: 1px solid transparent;
@@ -4413,13 +4422,12 @@ textarea.input-group-sm>.input-group-btn>.btn {
     }
 }
 .navbar-nav {
-    margin: 7.5px -15px;
-	font-size: 18px;
+    margin: 7.5px -15px /* 7.5px -15px */
 }
 .navbar-nav>li>a {
-    padding-top: 10px;
-    padding-bottom: 10px;
-    line-height: 30px
+    padding-top: 0px; /* 10px */
+    padding-bottom: 0px; /* 10px */
+    line-height: 20px
 }
 @media (max-width: 767px) {
     .navbar-nav .open .dropdown-menu {
@@ -4453,8 +4461,8 @@ textarea.input-group-sm>.input-group-btn>.btn {
         float: left
     }
     .navbar-nav>li>a {
-        padding-top: 15px;
-        padding-bottom: 15px
+        padding-top: 5px; /* 15px */
+        padding-bottom: 5px /* 15px */
     }
 }
 .navbar-form {

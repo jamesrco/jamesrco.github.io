@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Random & Useful
+title: Miscellany
 permalink: /stuff/
 ---
 
