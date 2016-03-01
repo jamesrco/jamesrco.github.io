@@ -3,8 +3,6 @@ layout: page
 title: Data
 permalink: /data/
 ---
-
-Data, etc
-
-* A list item
-* Another list item
+## Data
+&nbsp;
+Under construction. Links to data sources for all my research projects will be here.

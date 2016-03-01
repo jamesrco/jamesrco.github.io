@@ -3,8 +3,6 @@ layout: page
 title: Miscellany
 permalink: /stuff/
 ---
-
-Stuff. Random and (hopefully) useful.
-
-* A list item
-* Another list item
+## Miscellany
+&nbsp;
+Under construction. Stuff. Somewhat random and (hopefully) useful to others.

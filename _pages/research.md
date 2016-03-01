@@ -3,8 +3,6 @@ layout: page
 title: Research
 permalink: /research/
 ---
-
-Research interests, etc.
-
-* A list item
-* Another list item
+## Research interests and current projects
+&nbsp;
+Under construction. For now, check out [my bio](/bio/)
