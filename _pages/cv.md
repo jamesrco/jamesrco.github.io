@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 ## Curriculum vitae (abbreviated)
 &raquo; <a href="/assets/Collins,James_CV_20160229.pdf">PDF of full CV</a>
-<br>
+<br><br>
 
 ### Education
 <hr>
