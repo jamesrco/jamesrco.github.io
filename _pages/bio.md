@@ -4,7 +4,7 @@ title: Brief Bio
 permalink: /bio/
 ---
 ## About me
-&nbsp;
+
 I am an oceanographer, marine geochemist, and fifth year Ph.D. student in chemical oceanography at the Woods Hole Oceanographic Institution (WHOI) and the Massachusetts Institute of Technology (MIT). My research has taken me to Antarctica (twice) and throughout the world's oceans on various research vessels.
 
 My research explores the various biological and abiotic processes that can degrade and remineralize organic matter in the surface ocean. I am interested in both anthropogenic and natural sources of stress to the microorganisms (algae and bacteria) that form the base of marine ecosystems. For my thesis research, I am developing new "lipidomics" methods that leverage large volumes of mass spectrometer data to assess the effect on phytoplankton of stressors like ultraviolet radiation and warming temperatures. I am advised in my Ph.D. research by Dr. Benjamin Van Mooy, a scientist at WHOI.  
