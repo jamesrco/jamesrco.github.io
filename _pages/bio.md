@@ -18,3 +18,5 @@ In summer 2010, I was deployed for two months to Mobile, Alabama, as part of the
 In a brief previous life, I worked as a newspaper journalist at the [Boston Globe](http://www.bostonglobe.com/), [Albany Times Union](http://www.timesunion.com), and [St. Louis Post-Dispatch](http://www.stltoday.com/). I graduated from [Yale College](http://www.yale.edu) in 2004 with a master's degree in political science.
 
 I hold a 100-ton commercial Coast Guard master's license (near coastal waters, with towing endorsement) and I am a certified Critical Incident Stress Management (CISM) counselor.
+
+When not engaged in some aspect of science, I enjoy boating and fishing on and around Cape Cod, skiing (both nordic and downhill), running, cycling, camping, gardening, and woodworking.
