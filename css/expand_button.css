@@ -1,0 +1,18 @@
+/* Expand button styles
+-------------------------------------------------- */
+/* Icon when the collapsible content is shown */
+  .plusbutton:after {
+    font-family: "FontAwesome";
+    content: "\f146";
+	padding:6px;
+	display:inline;
+  }
+  /* Icon when the collapsible content is hidden */
+  .plusbutton.collapsed:after {
+    content: "\f0fe";
+  }
+  
+  .hangingIndent {
+	  padding-left: 4em;
+	  text-indent:-4em;
+   }

@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 ## Contact
-
+<br>
 <ul class="fa-ul">
   <li><i class="fa-li fa fa-envelope"></i>&nbsp;<a href="mailto:james.r.collins@aya.yale.edu">james.r.collins(at)aya.yale.edu</a></li>
   <li>&nbsp;</li>

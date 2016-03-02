@@ -40,8 +40,8 @@
     text-align: center
 }
 .fa-ul {
-    padding-left: 0;
-    margin-left: -.1em; /* modified from default */
+    padding-left: 2em; /* modified from default */
+    margin-left: +.1em; /* modified from default */
     list-style-type: none;
 	font-size: 18px; /* added (modified from default) */
 }
@@ -50,8 +50,8 @@
 }
 .fa-li {
     position: absolute;
-    left: -2.14285714em;
-    width: 2.14285714em;
+    left: -2em; /* -2.14285714em; */
+    width: 0em; /* 2.14285714em; */
     top: .14285714em;
     text-align: center
 }
