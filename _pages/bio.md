@@ -15,8 +15,8 @@ Before matriculating at Yale for my master's degree, I served on active duty for
 
 In summer 2010, I was deployed for two months to Mobile, Alabama, as part of the Coast Guard's response to the Deepwater Horizon drilling disaster. During the disaster, I served as director of an interagency team whose mission was to find and identify residual oil that had accumulated beneath the ocean's surface in the coastal waters of Mississippi, Alabama, and Florida.
 
-In a brief previous life, I worked as a newspaper journalist at the [Boston Globe](http://www.bostonglobe.com/), [Albany Times Union](http://www.timesunion.com), and [St. Louis Post-Dispatch](http://www.stltoday.com/). I graduated from [Yale College](http://www.yale.edu) in 2004 with a master's degree in political science.
+In a brief previous life, I worked as a newspaper journalist at the [Boston Globe](http://www.bostonglobe.com/), [Albany Times Union](http://www.timesunion.com), and [St. Louis Post-Dispatch](http://www.stltoday.com/). I graduated from [Yale College](http://www.yale.edu) in 2004 with a master's degree in political science. At Yale, I was Managing Editor of the [Yale Daily News](http://www.yaledailynews.com).
 
 I hold a 100-ton commercial Coast Guard master's license (near coastal waters, with towing endorsement) and I am a certified Critical Incident Stress Management (CISM) counselor.
 
-When not engaged in some aspect of science, I enjoy boating and fishing on and around Cape Cod, skiing (both nordic and downhill), running, cycling, camping, gardening, and woodworking.
+When not engaged in some aspect of science, I enjoy boating and fishing on and around Cape Cod, skiing (both nordic and downhill), running, cycling, camping, gardening, and woodworking. When indoors, I also enjoy coding and (occasionally) web design.
