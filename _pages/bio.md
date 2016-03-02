@@ -7,7 +7,7 @@ permalink: /bio/
 <br>
 I am an oceanographer, marine geochemist, and fifth year Ph.D. student in chemical oceanography at the [Woods Hole Oceanographic Institution](http://www.whoi.edu) (WHOI) and the [Massachusetts Institute of Technology](http://www.mit.edu) (MIT). My research has taken me to Antarctica (twice; check out my blog, [here](http://web.whoi.edu/coldsuncommuncation)) and throughout the world's oceans on various research vessels.
 
-My research explores the various biological and abiotic processes that can degrade and remineralize organic matter in the surface ocean. I am interested in both anthropogenic and natural sources of stress to the microorganisms (algae and bacteria) that form the base of marine ecosystems. For my thesis research, I am developing new "lipidomics" methods that leverage large volumes of mass spectrometer data to assess the effect on phytoplankton of stressors like ultraviolet radiation and warming temperatures. I am advised in my Ph.D. research by [Dr. Benjamin Van Mooy](http://www.whoi.edu/page.do?pid=80356), a scientist at WHOI.  
+My [research](/research/) explores the various biological and abiotic processes that degrade and remineralize organic matter in the surface ocean. I am interested in both anthropogenic and natural sources of stress to the microorganisms (algae and bacteria) that are the foundation of marine ecosystems.  
 
 Prior to beginning my Ph.D. studies in the [MIT/WHOI Joint Program](http://mit.whoi.edu/), I earned a master's degree in environmental science from the [Yale School of Forestry and Environmental Studies](http://environment.yale.edu). In my research there, I worked with [Dr. Peter Raymond](https://environment.yale.edu/profile/raymond/).
 
