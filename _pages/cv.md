@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 ## Curriculum vitae (abbreviated)
-&raquo; <a href="/assets/Collins,James_CV_20160229.pdf">PDF of full CV</a>
+View: <a href="/assets/Collins,James_CV_20160229.pdf">PDF of full CV</a> | <a href="/publications/">Publications</a> (on separate page)
 <br><br>
 
 ### Education
@@ -45,41 +45,8 @@ William A. Henry III Scholarship, Yale College</p>
 &nbsp;
 
 ### Professional Publications
-<p>View on: <a href="http://orcid.org"><img alt="ORCID logo" src="http://orcid.org/sites/default/files/images/orcid_16x16.png" width="16" height="16" /></a> <a href="http://orcid.org/0000-0002-5705-9682">ORCID</a> | <a href="https://scholar.google.com/citations?user=cnVF6N4AAAAJ&hl=en">Google Scholar</a> | <a href="http://www.scopus.com/authid/detail.uri?authorId=55390286300">Scopus</a></p>
 <hr>
- <div class="panel-reflist"><p class="hangingIndent"><b>Collins, J. R.</b>, B. R. Edwards, Helen F. Fredricks, and B. A. S. Van Mooy. LOBSTAHS: A novel lipidomics strategy for semi-untargeted discovery and identification of oxidative stress biomarkers. <i>Submitted.</i><a data-toggle="collapse" href="#collapse3" class="plusbutton collapsed"></a>	
- <div id="collapse3" class="panel-collapse collapse">&raquo; Software: <a href="https://github.com/vanmooylipidomics/LOBSTAHS">"LOBSTAHS" R package</a>
- <br>&raquo; Code: <a href="https://github.com/jamesrco/LipidomicsDataViz/tree/master/LOBSTAHS">R scripts used for data analysis and generation of figures</a>
- <br>&raquo; Data: <a href="ftp://ftp.whoi.edu/pub/science/MCG/gbmf/VanMooy/OxylipinAnalysis/expt%202/">Thermo .raw data files</a> | <a href="https://github.com/vanmooylipidomics/PtH2O2lipids">"PtH2O2lipids" R package; processed data in xcms and LOBSTAHS objects</a>
-       
-      </div>
-    </div>
- </p>
- </div>
-
- <div class="panel-reflist"><p class="hangingIndent"><b>Collins, J. R.</b>, B. R. Edwards, K. Thamatrakoln, J. E. Ossolinski, G. R. DiTullio, K. D. Bidle, S. C. Doney, and B. A. S. Van Mooy. 2015. The multiple fates of sinking particles in the North Atlantic Ocean. <i>Global Biogeochemical Cycles</i> <b>29</b>:1471-1494; <a href="http://dx.doi.org/10.1002/2014GB005037">doi:10.1002/2014GB005037</a><a data-toggle="collapse" href="#collapse2" class="plusbutton collapsed"></a>
- <div id="collapse2" class="panel-collapse collapse">
-      <div class="panel-body">The direct respiration of sinking organic matter by attached bacteria is often invoked as the dominant sink for settling particles in the mesopelagic ocean. However, other processes, such as enzymatic solubilization and mechanical disaggregation, also contribute to particle flux attenuation by transferring organic matter to the water column. Here we use observations from the North Atlantic Ocean, coupled to sensitivity analyses of a simple model, to assess the relative importance of particle-attached microbial respiration compared to the other processes that can degrade sinking particles. The observed carbon fluxes, bacterial production rates, and respiration by water column and particle-attached microbial communities each spanned more than an order of magnitude. Rates of substrate-specific respiration on sinking particle material ranged from 0.007 &plusmn; 0.003 to 0.173 &plusmn; 0.105 day<sup>-1</sup>. A comparison of these substrate-specific respiration rates with model results suggested sinking particle material was transferred to the water column by various biological and mechanical processes nearly 3.5 times as fast as it was directly respired. This finding, coupled with strong metabolic demand imposed by measurements of water column respiration (729.3 &plusmn; 266.0 mg C m<sup>-2</sup> d<sup>-1</sup>, on average, over the 50 to 150 m depth interval), suggested a large fraction of the organic matter evolved from sinking particles ultimately met its fate through subsequent remineralization in the water column. At three sites, we also measured very low bacterial growth efficiencies and large discrepancies between depth-integrated mesopelagic respiration and carbon inputs.<br>
-      <br>&raquo; Article: <a href="/assets/articles/Collins_et_al_2015_GBC.pdf">PDF</a>
-      <br>&raquo; Supplementary information: <a href="/assets/articles/Collins_et_al_2015_gbc20317-sup-0001-auxiliarymaterial.pdf">PDF</a>
-      <br>&raquo; Code: <a href="https://github.com/jamesrco/MultipleFatesofParticles">MATLAB & R scripts for model and figures</a> | <a href="https://github.com/jamesrco/3H_Leu_BactProd">MATLAB scripts for analysis of bacterial production data</a>
-      <br>&raquo; Cruise data: <a href="http://data.bco-dmo.org/jg/dir/BCO/vanMooy/SargassoSeaLipids/">KN207-1</a> | <a href="http://dmoserv3.whoi.edu/jg/dir/BCO-DMO/LipidLubeCarbCycle/">KN207-3</a>
-       
-      </div>
-    </div>
- </p>
- </div>
-
- <div class="panel-reflist"><p class="hangingIndent"><b>Collins, J. R.</b>, P. A. Raymond, W. F. Bohlen, and M. M. Howard-Strobel. 2013. Estimates of new and total productivity in central Long Island Sound from in situ measurements of nitrate and dissolved oxygen. <i>Estuaries and Coasts</i> <b>36</b>:74-97; <a href="http://dx.doi.org/10.1007/s12237-012-9560-5">doi:10.1007/s12237-012-9560-5</a><a data-toggle="collapse" href="#collapse1" class="plusbutton collapsed"></a>
- <div id="collapse1" class="panel-collapse collapse">
-      <div class="panel-body">Biogeochemical cycles in estuaries are regulated by a diverse set of physical and biological variables that operate over a variety of time scales. Using <i>in situ</i> optical sensors, we conducted a high-frequency time-series study of several biogeochemical parameters at a mooring in central Long Island Sound from May to August 2010. During this period, we documented well-defined diel cycles in nitrate concentration that were correlated to dissolved oxygen, wind stress, tidal mixing, and irradiance. By filtering the data to separate the nitrate time series into various signal components, we estimated the amount of variation that could be ascribed to each process. Primary production and surface wind stress explained 59 and 19&#37;, respectively, of the variation in nitrate concentrations. Less frequent physical forcings, including large-magnitude wind events and spring tides, served to decouple the relationship between oxygen, nitrate, and sunlight on about one quarter of study days. Daytime nitrate minima and dissolved oxygen maxima occurred nearly simultaneously on the majority (>80 &#37;) of days during the study period; both were strongly correlated with the daily peak in irradiance. Nighttime nitrate maxima reflected a pattern in which surface-layer stocks were depleted each afternoon and recharged the following night. Changes in nitrate concentrations were used to generate daily estimates of new primary production (182 &plusmn; 37 mg C m<sup>-2</sup> day<sup>-1</sup>) and the &#402; ratio (0.25), i.e., the ratio of production based on nitrate to total production. These estimates, the first of their kind in Long Island Sound, were compared to values of community respiration, primary productivity, and net ecosystem metabolism, which were derived from in situ measurements of oxygen concentration. Daily averages of the three metabolic parameters were 1,660 &plusmn; 431, 2,080 &plusmn; 419, and 429 &plusmn; 203 mg C m<sup>-2</sup> day<sup>-1</sup>, respectively. While the system remained weakly autotrophic over the duration of the study period, we observed very large day-to-day differences in the &#402; ratio and in the various metabolic parameters.<br>
-      <br>&raquo; Article: <a href="/assets/articles/Collins_et_al_2013_E&C.pdf">PDF</a>
-      <br>&raquo; Data: <a href="http://hdl.handle.net/1912/7268">Excel files containing all data and calculations</a>
-       
-      </div>
-    </div>
- </p>
- </div>
+<p>Link to: <a href="/publications/">Publications</a> (separate page)</p>
 &nbsp;
 
 ### Software

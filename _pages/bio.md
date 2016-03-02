@@ -4,7 +4,7 @@ title: Brief Bio
 permalink: /bio/
 ---
 ## About me
-<br>
+<hr>
 I am an oceanographer, marine geochemist, and fifth year Ph.D. student in chemical oceanography at the [Woods Hole Oceanographic Institution](http://www.whoi.edu) (WHOI) and the [Massachusetts Institute of Technology](http://www.mit.edu) (MIT). My research has taken me to Antarctica (twice; check out my blog, [here](http://web.whoi.edu/coldsuncommuncation)) and throughout the world's oceans on various research vessels.
 
 My [research](/research/) explores the various biological and abiotic processes that degrade and remineralize organic matter in the surface ocean. I am interested in both anthropogenic and natural sources of stress to the microorganisms (algae and bacteria) that are the foundation of marine ecosystems.  
