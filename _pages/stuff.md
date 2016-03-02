@@ -6,6 +6,6 @@ permalink: /stuff/
 ## Miscellany
 <hr>
 &raquo; [Communicating Under a Cold Sun](http://web.whoi.edu/coldsuncommunication): Blog I maintained during my two seasons at [Palmer Station](https://www.nsf.gov/geo/plr/support/palmerst.jsp) in Antarctica.
-<br>&raquo; The [Lightsuit Segment](https://vimeo.com/108679294) from AFTERGLOW 
-<br>&raquo; Fishing reports for Cape Cod and environs: Falmouth-based [On the Water](http://www.onthewater.com/regions/cape-cod-buzzards-bay/) | [Salty Cape](http://saltycape.com/)
-<br>&raquo; Follow me on [Strava](https://www.strava.com/athletes/1027848) (woefully inactive of late owing to a lingering ankle injury)
+&raquo; The [Lightsuit Segment](https://vimeo.com/108679294) from AFTERGLOW 
+&raquo; Fishing reports for Cape Cod and environs: Falmouth-based [On the Water](http://www.onthewater.com/regions/cape-cod-buzzards-bay/) | [Salty Cape](http://saltycape.com/)
+&raquo; Follow me on [Strava](https://www.strava.com/athletes/1027848) (woefully inactive of late owing to a lingering ankle injury)
