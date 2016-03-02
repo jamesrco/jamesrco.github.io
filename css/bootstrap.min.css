@@ -4276,7 +4276,7 @@ textarea.input-group-sm>.input-group-btn>.btn {
     position: relative;
     min-height: 30px; /* 50px */
     margin-bottom: 0px; /* 20px */
-	margin-left: -25px;
+	margin-left: 0px;
     border: 1px solid transparent
 }
 @media (min-width: 768px) {
