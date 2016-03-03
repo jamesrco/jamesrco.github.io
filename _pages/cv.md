@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 ## Curriculum vitae (abbreviated)
-View: <a href="/assets/Collins_James_CV_20160302">PDF of full CV</a> | <a href="/publications/">Publications</a> (on separate page)
+View: <a href="/assets/Collins_James_CV_20160302.pdf">PDF of full CV</a> | <a href="/publications/">Publications</a> (on separate page)
 <br><br>
 
 ### Education
@@ -35,12 +35,12 @@ Thesis: "Estimates of new and total productivity in central Long Island Sound fr
 <p class="hangingIndent">
 2011&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Provost’s Distinguished Graduate Fellowship, College of Oceanic and Atmospheric Science, Oregon State University (declined)</p>
 <p class="hangingIndent">
-2009&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Post-9/11 G.I. Bill “Yellow Ribbon” Program Recipient, Yale School of Forestry & Environmental Studies<br>
+2009&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Post-9/11 G.I. Bill “Yellow Ribbon” Program Recipient, Yale School of Forestry & Environmental Studies<br><br>
 John A. MacLean Scholarship, Yale School of Forestry & Environmental Studies (declined)</p>
 <p class="hangingIndent">
 2004&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Montaigne Prize, Yale College, for excellence in spoken and written French</p>
 <p class="hangingIndent">
-2000&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Golub Foundation Founder’s Scholarship, Yale College<br>
+2000&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Golub Foundation Founder’s Scholarship, Yale College<br><br>
 William A. Henry III Scholarship, Yale College</p>
 &nbsp;
 
@@ -92,4 +92,4 @@ William A. Henry III Scholarship, Yale College</p>
 <p class="hangingIndent"><b>Collins, J. R.</b>, and P. A. Raymond. April 2011. Controls on nutrient flux and productivity over multiple time scales in Long Island Sound. Poster. Master’s Student Colloquium, 2011, Yale School of Forestry & Environmental Studies, New Haven, CT.</p>
 &nbsp;
 
-<p>&raquo; <a href="/assets/Collins_James_CV_20160302">PDF of full CV</a></p>
+<p>&raquo; <a href="/assets/Collins_James_CV_20160302.pdf">PDF of full CV</a></p>
