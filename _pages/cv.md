@@ -12,14 +12,14 @@ View: <a href="/assets/Collins_James_CV_20160302.pdf">PDF of full CV</a> | <a hr
 #### 2011 -&nbsp;&nbsp;&nbsp;Ph.D., Chemical Oceanography (expected 2016)
 
 ##### MIT/WHOI Joint Program in Oceanography/Applied Ocean Science and Engineering 
-Advisor: [Dr. Ben Van Mooy](http://www.whoi.edu/page.do?pid=80356)
+Advisor: [Dr. Ben Van Mooy](http://www.whoi.edu/page.do?pid=80356)  
 Working thesis title: "The biological and abiotic oxidation of organic matter in the surface ocean"
 &nbsp;
 
 #### 2011&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;M.E.Sc., Marine Biogeochemistry
 
 ##### Yale School of Forestry & Environmental Studies, New Haven, CT
-Advisor: [Dr. Pete Raymond](https://environment.yale.edu/profile/raymond/)
+Advisor: [Dr. Pete Raymond](https://environment.yale.edu/profile/raymond/)  
 Thesis: "Estimates of new and total productivity in central Long Island Sound from in situ measurements of nitrate and dissolved oxygen"
 &nbsp;
 
