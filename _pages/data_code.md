@@ -12,7 +12,7 @@ I've also attempted to make available on the Internet many other scripts and cod
 
 ### Data and code for published projects
 <hr>
-Data and code for published projects can be downloaded using links on the [Publications](/publications/) page. Once there, expand each entry using the <i class="fa fa-plus-square"></i> icon; links to data and code appear at the end of each abstract.
+Data and code for published projects can be downloaded using links on the [Publications](/publications/) page. Once there, expand each entry using the <i class="fa fa-plus-square"></i> icon; links to data and code appear at the end of each abstract.  
 &nbsp;  
 
 ### Other software and code
