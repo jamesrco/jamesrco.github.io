@@ -94,3 +94,20 @@
 .carousel-overlay h1 {
     font-size: 3.5em;
 }
+
+.slide-wrapper {
+    position: relative
+}
+/* Profile image */
+.prophoto-img {
+	border-radius: 0%;
+	background-color:white;
+	float:right;
+	width: 200px;
+	padding: 20px 0px 20px 20px;
+}
+@media (min-width: 475px) { 
+    .prophoto-img {
+		width: 300px;
+    }
+}
