@@ -4,14 +4,14 @@ title: CV
 permalink: /cv/
 ---
 ## Curriculum vitae (abbreviated)
-View: <a href="/assets/Collins_James_CV_20160302.pdf">PDF of full CV</a> | <a href="/publications/">Publications</a> (on separate page)
+View: <a href="/assets/Collins_James_CV_20160527.pdf">PDF of full CV</a> | <a href="/publications/">Publications</a> (on separate page)
 <br><br>
 
 ### Education
 <hr>
 #### 2011 -&nbsp;&nbsp;&nbsp;Ph.D., Chemical Oceanography, MIT/WHOI Joint Program in Oceanography/Applied Ocean Science and Engineering (expected 2016)
 Advisor: [Dr. Ben Van Mooy](http://www.whoi.edu/page.do?pid=80356)  
-Working thesis title: "The biological and abiotic oxidation of organic matter in the surface ocean"  
+Working thesis title: "The remineralization of marine organic matter by diverse biological and abiotic processes"  
 &nbsp;  
   
 #### 2011&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;M.E.Sc., Marine Biogeochemistry, Yale School of Forestry & Environmental Studies
@@ -27,14 +27,14 @@ Thesis: "Estimates of new and total productivity in central Long Island Sound fr
 <p class="hangingIndent">
 2012&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EPA Science to Achieve Results (STAR) Graduate Fellowship</p>
 <p class="hangingIndent">
-2011&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Provost’s Distinguished Graduate Fellowship, College of Oceanic and Atmospheric Science, Oregon State University (declined)</p>
+2011&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Provost's Distinguished Graduate Fellowship, College of Oceanic and Atmospheric Science, Oregon State University (declined)</p>
 <p class="hangingIndent">
-2009&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Post-9/11 G.I. Bill “Yellow Ribbon” Program Recipient, Yale School of Forestry & Environmental Studies<br><br>
+2009&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Post-9/11 G.I. Bill "Yellow Ribbon" Program Recipient, Yale School of Forestry & Environmental Studies<br><br>
 John A. MacLean Scholarship, Yale School of Forestry & Environmental Studies (declined)</p>
 <p class="hangingIndent">
 2004&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Montaigne Prize, Yale College, for excellence in spoken and written French</p>
 <p class="hangingIndent">
-2000&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Golub Foundation Founder’s Scholarship, Yale College<br><br>
+2000&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Golub Foundation Founder's Scholarship, Yale College<br><br>
 William A. Henry III Scholarship, Yale College</p>
 &nbsp;
 
@@ -45,7 +45,7 @@ William A. Henry III Scholarship, Yale College</p>
 
 ### Software
 <hr>
-<p class="hangingIndent"><b>Collins, J. R.</b>, B. R. Edwards, Helen F. Fredricks, and B. A. S. Van Mooy. 2016. LOBSTAHS: Lipid and Oxylipin Biomarker Screening through Adduct Hierarchy Sequences. R package version 1.0.0; <a href="https://github.com/vanmooylipidomics/LOBSTAHS">https://github.com/vanmooylipidomics/LOBSTAHS</a></p>
+<p class="hangingIndent"><b>Collins, J. R.</b>, B. R. Edwards, Helen F. Fredricks, and B. A. S. Van Mooy. 2016. LOBSTAHS: Lipid and Oxylipin Biomarker Screening through Adduct Hierarchy Sequences. R package version 0.99.6; <a href="https://github.com/vanmooylipidomics/LOBSTAHS">https://github.com/vanmooylipidomics/LOBSTAHS</a></p>
 &nbsp;
 
 ### Publications (Other; Non-Refereed)
@@ -67,6 +67,8 @@ William A. Henry III Scholarship, Yale College</p>
 <hr>
 <p class="hangingIndent"><b>Collins, J. R.</b>, B. R. Edwards, Helen F. Fredricks, and B. A. S. Van Mooy. January 2016. Discovery and identification of biomarkers for oxidative stress in phytoplankton using LOBSTAHS, a new pipeline for semi-untargeted lipidomics. Poster. EMBO/EMBL Symposium: A New Age of Discovery for Aquatic Microeukaryotes, European Molecular Biology Laboratory, Heidelberg, Germany. &raquo; <a href="/assets/posters/Collins_EMBL_2016.pdf">PDF</a></p>
 
+<p class="hangingIndent">Becker, K. W., H. F. Fredricks, <b>J. R. Collins</b>, J. E. Ossolinski, J. Wingenroth, D. J. Repeta, D. A. Caron, S. W. Chisholm, and B. A. S. Van Mooy. May 2016. The microbial lipidome of subtropical Pacific surface waters dominated by <i>Prochlorococcus</i>. Poster. 12th Workshop on Cyanobacteria, Arizona State University, Tempe, AZ.</p>
+
 <p class="hangingIndent">Fredricks, H. F., <b>J. R. Collins</b>, B. R. Edwards, and B. A. S. Van Mooy. June 2015. Lipidomics of marine microorganisms under stress: Solving the needle / haystack problem with a large database and open-source software. Poster. Annual Conference, American Society for Mass Spectrometry, St. Louis, MO.</p>
 
 <p class="hangingIndent"><b>Collins, J. R.</b>, H. F. Fredricks, H. W. Ducklow, and B. A. S. Van Mooy. February 2015. Photochemical production of oxylipin infochemicals in West Antarctica: An approach using new tools for semi-untargeted lipidomics. Poster. ASLO Aquatic Sciences Meeting, Granada, Spain. &raquo; <a href="/assets/posters/Collins_ASLO_2015.pdf">PDF</a></p>
@@ -83,7 +85,7 @@ William A. Henry III Scholarship, Yale College</p>
 
 <p class="hangingIndent"><b>Collins, J. R.</b>, P. A. Raymond, W. F. Bohlen, and M. M. Howard-Strobel. November 2011. Metabolism in central Long Island Sound, minute by minute: Estimates from in situ oxygen and nitrate measurements. Poster. Coastal and Estuarine Research Federation (CERF) Biennial Conference, Daytona Beach, FL. &raquo; <a href="/assets/posters/Collins_CERF_2011.pdf">PDF</a></p>
 
-<p class="hangingIndent"><b>Collins, J. R.</b>, and P. A. Raymond. April 2011. Controls on nutrient flux and productivity over multiple time scales in Long Island Sound. Poster. Master’s Student Colloquium, 2011, Yale School of Forestry & Environmental Studies, New Haven, CT.</p>
+<p class="hangingIndent"><b>Collins, J. R.</b>, and P. A. Raymond. April 2011. Controls on nutrient flux and productivity over multiple time scales in Long Island Sound. Poster. Master's Student Colloquium, 2011, Yale School of Forestry & Environmental Studies, New Haven, CT.</p>
 &nbsp;
 
-<p>&raquo; <a href="/assets/Collins_James_CV_20160302.pdf">PDF of full CV</a></p>
+<p>&raquo; <a href="/assets/Collins_James_CV_20160527.pdf">PDF of full CV</a></p>
