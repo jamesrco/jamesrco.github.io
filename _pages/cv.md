@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 ## Curriculum vitae (abbreviated)
-View: <a href="/assets/Collins_James_CV_20160527.pdf">PDF of full CV</a> | <a href="/publications/">Publications</a> (on separate page)
+View: <a href="/assets/Collins_James_CV_20160620_web.pdf">PDF of full CV</a> | <a href="/publications/">Publications</a> (on separate page)
 <br><br>
 
 ### Education
@@ -24,6 +24,8 @@ Thesis: "Estimates of new and total productivity in central Long Island Sound fr
 
 ### Honors and Awards
 <hr>
+<p class="hangingIndent">
+2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Invited Participant, DISCO XXV (Dissertations Symposium on Chemical Oceanography)</p>
 <p class="hangingIndent">
 2012&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EPA Science to Achieve Results (STAR) Graduate Fellowship</p>
 <p class="hangingIndent">
@@ -45,7 +47,7 @@ William A. Henry III Scholarship, Yale College</p>
 
 ### Software
 <hr>
-<p class="hangingIndent"><b>Collins, J. R.</b>, B. R. Edwards, Helen F. Fredricks, and B. A. S. Van Mooy. 2016. LOBSTAHS: Lipid and Oxylipin Biomarker Screening through Adduct Hierarchy Sequences. R package version 0.99.6; <a href="https://github.com/vanmooylipidomics/LOBSTAHS">https://github.com/vanmooylipidomics/LOBSTAHS</a></p>
+<p class="hangingIndent"><b>Collins, J. R.</b>, B. R. Edwards, Helen F. Fredricks, and B. A. S. Van Mooy. 2016. LOBSTAHS: Lipid and Oxylipin Biomarker Screening through Adduct Hierarchy Sequences. R package version 0.99.8; <a href="https://github.com/vanmooylipidomics/LOBSTAHS">https://github.com/vanmooylipidomics/LOBSTAHS</a> and currently under review at <a href="http://bioconductor.org/">Bioconductor</a></p>
 &nbsp;
 
 ### Publications (Other; Non-Refereed)
@@ -58,6 +60,8 @@ William A. Henry III Scholarship, Yale College</p>
 
 ### Invited Talks and Lectures
 <hr>
+<p class="hangingIndent"><b>Collins, J. R.</b>, B. R. Edwards, Helen F. Fredricks, K. W. Becker, and B. A. S. Van Mooy. June 2016. Fort Johnson Marine Science Seminar. "Investigating oxidative stress and metabolic function in marine microbes using new a tool for environmental lipidomics." National Institute of Standards and Technology, Hollings Marine Laboratory, Charleston, SC.</p>
+
 <p class="hangingIndent"><b>Collins, J. R.</b>, B. R. Edwards, K. Thamatrakoln, J. E. Ossolinski, G. R. DiTullio, K. D. Bidle, S. C. Doney, and B. A. S. Van Mooy. September 2015. "Balancing the direct and indirect removal of sinking particles in the North Atlantic Ocean." Departmental Seminar. Department of Marine Chemistry & Geochemistry, Woods Hole Oceanographic Institution, Woods Hole, MA.</p>
 
 <p class="hangingIndent"><b>Collins, J. R.</b>, and P. A. Raymond. March 2012. "Controls on new production and nitrate inventory in central Long Island Sound." Biogeochemistry Seminar. Department of Marine Chemistry & Geochemistry, Woods Hole Oceanographic Institution, Woods Hole, MA.</p> 
@@ -88,4 +92,4 @@ William A. Henry III Scholarship, Yale College</p>
 <p class="hangingIndent"><b>Collins, J. R.</b>, and P. A. Raymond. April 2011. Controls on nutrient flux and productivity over multiple time scales in Long Island Sound. Poster. Master's Student Colloquium, 2011, Yale School of Forestry & Environmental Studies, New Haven, CT.</p>
 &nbsp;
 
-<p>&raquo; <a href="/assets/Collins_James_CV_20160527.pdf">PDF of full CV</a></p>
+<p>&raquo; <a href="/assets/Collins_James_CV_20160620_web.pdf.pdf">PDF of full CV</a></p>

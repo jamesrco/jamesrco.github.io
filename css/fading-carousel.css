@@ -111,3 +111,16 @@
 		width: 300px;
     }
 }
+/* Small image */
+.small-inline-img {
+	border-radius: 0%;
+	background-color:white;
+	float:left;
+	width: 200px;
+	padding: 20px 20px 20px 0px;
+}
+@media (min-width: 475px) { 
+    .small-inline-img {
+		width: 200px;
+    }
+}
