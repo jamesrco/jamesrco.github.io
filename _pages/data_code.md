@@ -14,7 +14,7 @@ I've also attempted to make available on the Internet many other scripts and cod
 <hr>
 <img src="/images/other/LOBSTAHS_TOC_Figure.png" class="small-inline-img">**As of June 20, 2016:** The LOBSTAHS software (Lipid and Oxylipin Biomarker Screening Through Adduct Hierarchy Sequences) is available at [https://github.com/vanmooylipidomics/LOBSTAHS](https://github.com/vanmooylipidomics/LOBSTAHS) and is currently under review at [Bioconductor](http://bioconductor.org). The manuscript describing LOBSTAHS has been published in *Analytical Chemistry.* Links, etc., are on the [Publications](/publications/) page.
 
-Data and code for published projects can be downloaded using links on the [Publications](/publications/) page. Once there, expand each entry using the <i class="fa fa-plus-square"></i> icon; links to data and code appear at the end of each abstract.  
+Data and code for other published projects can be downloaded using links on the [Publications](/publications/) page. Once there, expand each entry using the <i class="fa fa-plus-square"></i> icon; links to data and code appear at the end of each abstract.  
 &nbsp;  
 
 ### Other software and code
