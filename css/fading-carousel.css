@@ -108,10 +108,10 @@
 	background-color:white;
 	float:right;
 	width: 200px;
-	padding: 0px 0px 20px 20px;
+	padding: 0px 0px 10px 20px;
 }
 @media (min-width: 475px) { 
-    .prophoto-img {
+    .prophoto-img {he
 		width: 300px;
     }
 }
