@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 ## Curriculum vitae (abbreviated)
-View: <a href="/assets/Collins_James_CV_20160620_web.pdf">PDF of full CV</a> | <a href="/publications/">Publications</a> (on separate page)
+View: <a href="/assets/Collins_James_CV_20161008_web.pdf">PDF of full CV</a> | <a href="/publications/">Publications</a> (on separate page)
 <br><br>
 
 ### Education
@@ -24,6 +24,8 @@ Thesis: "Estimates of new and total productivity in central Long Island Sound fr
 
 ### Honors and Awards
 <hr>
+<p class="hangingIndent">
+2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Moore/Sloan & Washington Research Foundation Innovation Postdoctoral Fellowship in Data Science</p>
 <p class="hangingIndent">
 2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Invited Participant, DISCO XXV (Dissertations Symposium on Chemical Oceanography)</p>
 <p class="hangingIndent">
@@ -47,7 +49,7 @@ William A. Henry III Scholarship, Yale College</p>
 
 ### Software
 <hr>
-<p class="hangingIndent"><b>Collins, J. R.</b>, B. R. Edwards, Helen F. Fredricks, and B. A. S. Van Mooy. 2016. LOBSTAHS: Lipid and Oxylipin Biomarker Screening through Adduct Hierarchy Sequences. R package version 0.99.8; <a href="https://github.com/vanmooylipidomics/LOBSTAHS">https://github.com/vanmooylipidomics/LOBSTAHS</a> and currently under review at <a href="http://bioconductor.org/">Bioconductor</a></p>
+<p class="hangingIndent"><b>Collins, J. R.</b>, B. R. Edwards, Helen F. Fredricks, and B. A. S. Van Mooy. 2016. LOBSTAHS: Lipid and Oxylipin Biomarker Screening through Adduct Hierarchy Sequences. R package version 0.99.9; <a href="https://github.com/vanmooylipidomics/LOBSTAHS">https://github.com/vanmooylipidomics/LOBSTAHS</a> and currently under review at <a href="http://bioconductor.org/">Bioconductor</a></p>
 &nbsp;
 
 ### Publications (Other; Non-Refereed)
@@ -60,6 +62,8 @@ William A. Henry III Scholarship, Yale College</p>
 
 ### Invited Talks and Lectures
 <hr>
+<p class="hangingIndent"><b>Collins, J. R.</b>, B. R. Edwards, Helen F. Fredricks, K. W. Becker, and B. A. S. Van Mooy. September 2016. "Investigating oxidative stress and metabolic function in marine microbes using new a tool for environmental lipidomics." Bigelow Laboratory for Ocean Sciences, East Boothbay, ME.</p>
+
 <p class="hangingIndent"><b>Collins, J. R.</b>, B. R. Edwards, Helen F. Fredricks, K. W. Becker, and B. A. S. Van Mooy. June 2016. Fort Johnson Marine Science Seminar. "Investigating oxidative stress and metabolic function in marine microbes using new a tool for environmental lipidomics." National Institute of Standards and Technology, Hollings Marine Laboratory, Charleston, SC.</p>
 
 <p class="hangingIndent"><b>Collins, J. R.</b>, B. R. Edwards, K. Thamatrakoln, J. E. Ossolinski, G. R. DiTullio, K. D. Bidle, S. C. Doney, and B. A. S. Van Mooy. September 2015. "Balancing the direct and indirect removal of sinking particles in the North Atlantic Ocean." Departmental Seminar. Department of Marine Chemistry & Geochemistry, Woods Hole Oceanographic Institution, Woods Hole, MA.</p>
@@ -69,6 +73,8 @@ William A. Henry III Scholarship, Yale College</p>
 
 ### Conference Presentations and Posters
 <hr>
+<p class="hangingIndent"><b>Collins, J. R.</b>, B. R. Edwards, H. F. Fredricks, and B. A. S. Van Mooy. August 2016. Discovery & identification of oxidative stress biomarkers in marine microbes using LOBSTAHS, a new R package for lipidomics. Poster. 16th International Symposium on Microbial Ecology (ISME16), Montreal, Canada. &raquo; <a href="/assets/posters/Collins_ISME_2016.pdf">PDF</a></p>
+
 <p class="hangingIndent"><b>Collins, J. R.</b>, B. R. Edwards, Helen F. Fredricks, and B. A. S. Van Mooy. January 2016. Discovery and identification of biomarkers for oxidative stress in phytoplankton using LOBSTAHS, a new pipeline for semi-untargeted lipidomics. Poster. EMBO/EMBL Symposium: A New Age of Discovery for Aquatic Microeukaryotes, European Molecular Biology Laboratory, Heidelberg, Germany. &raquo; <a href="/assets/posters/Collins_EMBL_2016.pdf">PDF</a></p>
 
 <p class="hangingIndent">Becker, K. W., H. F. Fredricks, <b>J. R. Collins</b>, J. E. Ossolinski, J. Wingenroth, D. J. Repeta, D. A. Caron, S. W. Chisholm, and B. A. S. Van Mooy. May 2016. The microbial lipidome of subtropical Pacific surface waters dominated by <i>Prochlorococcus</i>. Poster. 12th Workshop on Cyanobacteria, Arizona State University, Tempe, AZ.</p>
@@ -92,4 +98,4 @@ William A. Henry III Scholarship, Yale College</p>
 <p class="hangingIndent"><b>Collins, J. R.</b>, and P. A. Raymond. April 2011. Controls on nutrient flux and productivity over multiple time scales in Long Island Sound. Poster. Master's Student Colloquium, 2011, Yale School of Forestry & Environmental Studies, New Haven, CT.</p>
 &nbsp;
 
-<p>&raquo; <a href="/assets/Collins_James_CV_20160620_web.pdf.pdf">PDF of full CV</a></p>
+<p>&raquo; <a href="/assets/Collins_James_CV_20161008_web.pdf">PDF of full CV</a></p>
