@@ -49,7 +49,7 @@ William A. Henry III Scholarship, Yale College</p>
 
 ### Software
 <hr>
-<p class="hangingIndent"><b>Collins, J. R.</b>, B. R. Edwards, Helen F. Fredricks, and B. A. S. Van Mooy. 2016. LOBSTAHS: Lipid and Oxylipin Biomarker Screening through Adduct Hierarchy Sequences. R package version 0.99.9; <a href="https://github.com/vanmooylipidomics/LOBSTAHS">https://github.com/vanmooylipidomics/LOBSTAHS</a> or via [Bioconductor](http://bioconductor.org/packages/LOBSTAHS)</p>
+<p class="hangingIndent"><b>Collins, J. R.</b>, B. R. Edwards, Helen F. Fredricks, and B. A. S. Van Mooy. 2016. LOBSTAHS: Lipid and Oxylipin Biomarker Screening through Adduct Hierarchy Sequences. R package version 0.99.9; <a href="https://github.com/vanmooylipidomics/LOBSTAHS">https://github.com/vanmooylipidomics/LOBSTAHS</a> or via <a href="http://bioconductor.org/packages/LOBSTAHS">Bioconductor</a></p>
 &nbsp;
 
 ### Publications (Other; Non-Refereed)
