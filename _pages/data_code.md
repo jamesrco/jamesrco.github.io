@@ -24,6 +24,7 @@ Visit me on [GitHub](https://github.com/jamesrco). Also the [main contributor he
 
 ### Some links for those interested in data, data science, and data visualization 
 <hr>
+&raquo; [Federation of Earth Science Information Partners (ESIP](http://esipfed.org/). NASA/NOAA-funded initiative of the Foundation for Earth Science. A community which offers best practices and an amazing clearinghouse for new ideas on data, data stewardship, data discovery, and information technology in the earth sciences.
 &raquo; The [Biological and Chemical Oceanography Data Management Office (BCO-DMO)](http://www.bco-dmo.org/). Also, [some pointers](http://www.bco-dmo.org/submitting-data-spreadsheet) for cocercing dates, times, geographical positions, and other data into an acceptable format for upload to BCO-DMO.  
 &raquo; [Geoscience Papers of the Future Initiative](http://www.ontosoft.org/gpf/). If you can, attend a [training session](http://www.ontosoft.org/gpf/training-sessions).  
 &raquo; The [Software Carpentry](http://software-carpentry.org/) project.

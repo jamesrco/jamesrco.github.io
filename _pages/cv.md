@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 ## Curriculum vitae (abbreviated)
-View: <a href="/assets/Collins_James_CV_20161008_web.pdf">PDF of full CV</a> | <a href="/publications/">Publications</a> (on separate page)
+View: <a href="/assets/Collins_James_CV_20161025_web.pdf">PDF of full CV</a> | <a href="/publications/">Publications</a> (on separate page)
 <br><br>
 
 ### Education
@@ -25,7 +25,8 @@ Thesis: "Estimates of new and total productivity in central Long Island Sound fr
 ### Honors and Awards
 <hr>
 <p class="hangingIndent">
-2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Moore/Sloan & Washington Research Foundation Innovation Postdoctoral Fellowship in Data Science</p>
+2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Moore/Sloan & Washington Research Foundation Innovation Postdoctoral Fellowship in Data Science<br><br>
+Federation of Earth Science Information Partners (ESIP) Student Fellow, Data Stewardship Cluster</p>
 <p class="hangingIndent">
 2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Invited Participant, DISCO XXV (Dissertations Symposium on Chemical Oceanography)</p>
 <p class="hangingIndent">
@@ -49,7 +50,7 @@ William A. Henry III Scholarship, Yale College</p>
 
 ### Software
 <hr>
-<p class="hangingIndent"><b>Collins, J. R.</b>, B. R. Edwards, Helen F. Fredricks, and B. A. S. Van Mooy. 2016. LOBSTAHS: Lipid and Oxylipin Biomarker Screening through Adduct Hierarchy Sequences. R package version 0.99.9; <a href="https://github.com/vanmooylipidomics/LOBSTAHS">https://github.com/vanmooylipidomics/LOBSTAHS</a> or via <a href="http://bioconductor.org/packages/LOBSTAHS">Bioconductor</a></p>
+<p class="hangingIndent"><b>Collins, J. R.</b>, B. R. Edwards, Helen F. Fredricks, and B. A. S. Van Mooy. 2016. LOBSTAHS: Lipid and Oxylipin Biomarker Screening through Adduct Hierarchy Sequences. R package version 1.0.0; <a href="https://github.com/vanmooylipidomics/LOBSTAHS">https://github.com/vanmooylipidomics/LOBSTAHS</a> or via <a href="http://bioconductor.org/packages/LOBSTAHS">Bioconductor</a></p>
 &nbsp;
 
 ### Publications (Other; Non-Refereed)
@@ -98,4 +99,4 @@ William A. Henry III Scholarship, Yale College</p>
 <p class="hangingIndent"><b>Collins, J. R.</b>, and P. A. Raymond. April 2011. Controls on nutrient flux and productivity over multiple time scales in Long Island Sound. Poster. Master's Student Colloquium, 2011, Yale School of Forestry & Environmental Studies, New Haven, CT.</p>
 &nbsp;
 
-<p>&raquo; <a href="/assets/Collins_James_CV_20161008_web.pdf">PDF of full CV</a></p>
+<p>&raquo; <a href="/assets/Collins_James_CV_20161025_web.pdf">PDF of full CV</a></p>
