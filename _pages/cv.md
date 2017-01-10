@@ -9,7 +9,7 @@ View: <a href="/assets/Collins_James_CV_20161025_web.pdf">PDF of full CV</a> | <
 
 ### Education
 <hr>
-#### 2011 -&nbsp;&nbsp;&nbsp;Ph.D., Chemical Oceanography, MIT/WHOI Joint Program in Oceanography/Applied Ocean Science and Engineering (expected 2016)
+#### 2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ph.D., Chemical Oceanography, MIT/WHOI Joint Program in Oceanography/Applied Ocean Science and Engineering
 Advisor: [Dr. Ben Van Mooy](http://www.whoi.edu/page.do?pid=80356)  
 Working thesis title: "The remineralization of marine organic matter by diverse biological and abiotic processes"  
 &nbsp;  
