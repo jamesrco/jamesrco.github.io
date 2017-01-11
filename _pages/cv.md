@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 ## Curriculum vitae (abbreviated)
-View: <a href="/assets/Collins_James_CV_20161025_web.pdf">PDF of full CV</a> | <a href="/publications/">Publications</a> (on separate page)
+View: <a href="/assets/Collins_James_CV_20170105_web.pdf">PDF of full CV</a> | <a href="/publications/">Publications</a> (on separate page)
 <br><br>
 
 ### Education
@@ -50,7 +50,7 @@ William A. Henry III Scholarship, Yale College</p>
 
 ### Software
 <hr>
-<p class="hangingIndent"><b>Collins, J. R.</b>, B. R. Edwards, Helen F. Fredricks, and B. A. S. Van Mooy. 2016. LOBSTAHS: Lipid and Oxylipin Biomarker Screening through Adduct Hierarchy Sequences. R package version 1.0.0; <a href="https://github.com/vanmooylipidomics/LOBSTAHS">https://github.com/vanmooylipidomics/LOBSTAHS</a> or via <a href="http://bioconductor.org/packages/LOBSTAHS">Bioconductor</a></p>
+<p class="hangingIndent"><b>Collins, J. R.</b>, B. R. Edwards, Helen F. Fredricks, and B. A. S. Van Mooy. 2017. LOBSTAHS: Lipid and Oxylipin Biomarker Screening through Adduct Hierarchy Sequences. R package version 1.1.1; Available at <a href="https://github.com/vanmooylipidomics/LOBSTAHS">https://github.com/vanmooylipidomics/LOBSTAHS</a> or via <a href="http://bioconductor.org/packages/LOBSTAHS">Bioconductor</a></p>
 &nbsp;
 
 ### Publications (Other; Non-Refereed)
@@ -74,6 +74,9 @@ William A. Henry III Scholarship, Yale College</p>
 
 ### Conference Presentations and Posters
 <hr>
+
+<p class="hangingIndent"><b>Collins, J. R.</b>, B. R. Edwards, K. W. Becker, H. F. Fredricks, and B. A. S. Van Mooy. December 2016. Putting the oxylipidome to work: The R-based LOBSTAHS lipidomics software reveals candidate biomarkers for stress in plankton. Poster. Annual meeting of the Simons Collaboration on Ocean Processes & Ecology (SCOPE), New York, NY. &raquo; <a href="/assets/posters/Collins_SCOPE2016_ESIPJan2017.pdf">PDF</a></p>
+
 <p class="hangingIndent"><b>Collins, J. R.</b>, B. R. Edwards, H. F. Fredricks, and B. A. S. Van Mooy. August 2016. Discovery & identification of oxidative stress biomarkers in marine microbes using LOBSTAHS, a new R package for lipidomics. Poster. 16th International Symposium on Microbial Ecology (ISME16), Montreal, Canada. &raquo; <a href="/assets/posters/Collins_ISME_2016.pdf">PDF</a></p>
 
 <p class="hangingIndent"><b>Collins, J. R.</b>, B. R. Edwards, Helen F. Fredricks, and B. A. S. Van Mooy. January 2016. Discovery and identification of biomarkers for oxidative stress in phytoplankton using LOBSTAHS, a new pipeline for semi-untargeted lipidomics. Poster. EMBO/EMBL Symposium: A New Age of Discovery for Aquatic Microeukaryotes, European Molecular Biology Laboratory, Heidelberg, Germany. &raquo; <a href="/assets/posters/Collins_EMBL_2016.pdf">PDF</a></p>
@@ -99,4 +102,4 @@ William A. Henry III Scholarship, Yale College</p>
 <p class="hangingIndent"><b>Collins, J. R.</b>, and P. A. Raymond. April 2011. Controls on nutrient flux and productivity over multiple time scales in Long Island Sound. Poster. Master's Student Colloquium, 2011, Yale School of Forestry & Environmental Studies, New Haven, CT.</p>
 &nbsp;
 
-<p>&raquo; <a href="/assets/Collins_James_CV_20161025_web.pdf">PDF of full CV</a></p>
+<p>&raquo; <a href="/assets/Collins_James_CV_20170105_web.pdf">PDF of full CV</a></p>
