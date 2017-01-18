@@ -25,8 +25,9 @@ Thesis: "Estimates of new and total productivity in central Long Island Sound fr
 ### Honors and Awards
 <hr>
 <p class="hangingIndent">
-2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Moore/Sloan & Washington Research Foundation Innovation Postdoctoral Fellowship in Data Science<br>
-Federation of Earth Science Information Partners (ESIP) Student Fellow, Data Stewardship Cluster</p>
+2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Moore/Sloan & Washington Research Foundation Innovation Postdoctoral Fellowship in Data Science</p>
+<p class="hangingIndent">
+2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Federation of Earth Science Information Partners (ESIP) Student Fellow, Data Stewardship Cluster</p>
 <p class="hangingIndent">
 2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Invited Participant, DISCO XXV (Dissertations Symposium on Chemical Oceanography)</p>
 <p class="hangingIndent">
