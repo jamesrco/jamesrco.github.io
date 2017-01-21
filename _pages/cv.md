@@ -7,14 +7,22 @@ permalink: /cv/
 View: <a href="/assets/Collins_James_CV_web_20170121.pdf">PDF of full CV</a> | <a href="/publications/">Publications</a> (on separate page)
 <br><br>
 
-
-### Professional Scientific Experience
-<p class="hangingIndentmore">
-2017 &#8211; present&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Moore/Sloan Data Science & WRF Innovation Postdoctoral Fellow, eScience Institute and Sch. of Oceanography, Univ. of Washington</p>
-<p class="hangingIndentmore">
-2017	Postdoctoral Investigator, Dept. Mar. Chem. & Geochem, Woods Hole Ocean. Inst.</p>
-<p class="hangingIndentmore">2011 Ð 2016	Research Assistant, Dept. Mar. Chem. & Geochem, Woods Hole Ocean. Inst.</p>
+### Education
+<hr>
+<b>2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ph.D., MIT/WHOI Joint Program in Oceanography/ Applied Ocean Science and Engineering</b>
+Chemical Oceanography, February 2017
+Advisor: [Dr. Ben Van Mooy](http://www.whoi.edu/page.do?pid=80356)  
+Thesis: "The remineralization of marine organic matter by diverse biological and abiotic processes" available for download [here](http://jamesrco.github.io/assets/Collins_thesis.pdf); code and data [here](https://github.com/jamesrco/LipidPhotoOxBox)
+&nbsp;  
+  
+<b>2011&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;M.E.Sc., Marine Biogeochemistry, Yale School of Forestry & Environmental Studies</b>
+Advisor: [Dr. Pete Raymond](https://environment.yale.edu/profile/raymond/)  
+Thesis: "Estimates of new and total productivity in central Long Island Sound from in situ measurements of nitrate and dissolved oxygen"  
+&nbsp;  
+  
+<b>2004&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B.A., Political Science, Yale College (with distinction)</b>
 &nbsp;
+
 
 ### Honors and Awards
 <hr>
