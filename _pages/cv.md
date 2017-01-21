@@ -9,20 +9,30 @@ View: <a href="/assets/Collins_James_CV_web_20170121.pdf">PDF of full CV</a> | <
 
 ### Education
 <hr>
-<b>2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ph.D., MIT/WHOI Joint Program in Oceanography/ Applied Ocean Science and Engineering</b>
-Chemical Oceanography, February 2017
-Advisor: [Dr. Ben Van Mooy](http://www.whoi.edu/page.do?pid=80356)  
-Thesis: "The remineralization of marine organic matter by diverse biological and abiotic processes" available for download [here](http://jamesrco.github.io/assets/Collins_thesis.pdf); code and data [here](https://github.com/jamesrco/LipidPhotoOxBox)
-&nbsp;  
-  
-<b>2011&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;M.E.Sc., Marine Biogeochemistry, Yale School of Forestry & Environmental Studies</b>
-Advisor: [Dr. Pete Raymond](https://environment.yale.edu/profile/raymond/)  
-Thesis: "Estimates of new and total productivity in central Long Island Sound from in situ measurements of nitrate and dissolved oxygen"  
-&nbsp;  
-  
-<b>2004&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B.A., Political Science, Yale College (with distinction)</b>
-&nbsp;
+<p class="hangingIndent">
+2017<span style="display:inline-block; width: 1.78em;"></span><b>Ph.D., MIT/WHOI Joint Program in Oceanography/Applied Ocean Science and Engineering</b>
+<br>Chemical Oceanography, February 2017
+<br>Advisor: <a href="http://www.whoi.edu/page.do?pid=80356">Dr. Ben Van Mooy</a>
+<br>Thesis: "The remineralization of marine organic matter by diverse biological and abiotic processes"
+<br>&raquo; Download: <a href="http://jamesrco.github.io/assets/Collins_thesis.pdf">PDF of thesis</a> | <a href="https://github.com/jamesrco/LipidPhotoOxBox">code and data</a></p>
 
+<p class="hangingIndent">
+2011<span style="display:inline-block; width: 1.78em;"></span><b>M.E.Sc., Marine Biogeochemistry, Yale School of Forestry & Environmental Studies</b>
+<br>Advisor: <a href="https://environment.yale.edu/profile/raymond/">Dr. Pete Raymond</a>  
+<br>Thesis: "Estimates of new and total productivity in central Long Island Sound from in situ measurements of nitrate and dissolved oxygen"</p>
+
+<p class="hangingIndent">
+2011<span style="display:inline-block; width: 1.78em;"></span><b>B.A., Political Science, Yale College (with distinction)</b></p>
+<br>
+
+### Professional Scientific Experience
+<hr>
+<p class="hangingIndentmore">
+2017 &#8211; present&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Moore/Sloan Data Science & WRF Innovation Postdoctoral Fellow, eScience Institute and Sch. of Oceanography, Univ. of Washington</p>
+<p class="hangingIndentmore">
+2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Postdoctoral Investigator, Dept. Mar. Chem. & Geochem, Woods Hole Ocean. Inst.</p>
+<p class="hangingIndentmore">2011 &#8211; 2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research Assistant, Dept. Mar. Chem. & Geochem, Woods Hole Ocean. Inst.</p>
+&nbsp;
 
 ### Honors and Awards
 <hr>
@@ -78,7 +88,9 @@ William A. Henry III Scholarship, Yale College</p>
 ### Conference Presentations and Posters
 <hr>
 
-<p class="hangingIndent"><b>Collins, J. R.</b>, B. R. Edwards, K. W. Becker, H. F. Fredricks, and B. A. S. Van Mooy. December 2016. Putting the oxylipidome to work: The R-based LOBSTAHS lipidomics software reveals candidate biomarkers for stress in plankton. Poster. Annual meeting of the Simons Collaboration on Ocean Processes & Ecology (SCOPE), New York, NY. &raquo; <a href="/assets/posters/Collins_SCOPE2016_ESIPJan2017.pdf">PDF</a></p>
+<p class="hangingIndent"><b>Collins, J. R.</b>, B. R. Edwards, K. W. Becker, H. F. Fredricks, and B. A. S. Van Mooy. January 2017. Discovery and identification of oxidative stress biomarkers in marine phytoplankton using a new, open-source R package for lipidomics. Poster. Winter meeting of the Federation of Earth Science Information Partners (ESIP), Bethesda, MD. &raquo; <a href="/assets/posters/Collins_ESIP_Winter_2017.pdf">PDF</a></p>
+
+<p class="hangingIndent"><b>Collins, J. R.</b>, B. R. Edwards, K. W. Becker, H. F. Fredricks, and B. A. S. Van Mooy. December 2016. Putting the oxylipidome to work: The R-based LOBSTAHS lipidomics software reveals candidate biomarkers for stress in plankton. Poster. Annual meeting of the Simons Collaboration on Ocean Processes & Ecology (SCOPE), New York, NY. &raquo; <a href="/assets/posters/Collins_SCOPE_2016.pdf">PDF</a></p>
 
 <p class="hangingIndent"><b>Collins, J. R.</b>, B. R. Edwards, H. F. Fredricks, and B. A. S. Van Mooy. August 2016. Discovery & identification of oxidative stress biomarkers in marine microbes using LOBSTAHS, a new R package for lipidomics. Poster. 16th International Symposium on Microbial Ecology (ISME16), Montreal, Canada. &raquo; <a href="/assets/posters/Collins_ISME_2016.pdf">PDF</a></p>
 
