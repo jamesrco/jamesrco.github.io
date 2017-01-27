@@ -5,6 +5,15 @@ permalink: /stuff/
 ---
 ## Miscellany
 <hr>
+A loosely-organized jumble of things I like, things in which I am interested, things in which I feel others might be interested, things I've found on the Internet, and slides for talks I've given.
+&nbsp;  
+
+### Slides from talks
+<hr>
+&raquo; [Some modest advice about open-source software development](/assets/slides/20170127_Some-thoughts-on-OS-software-dev't-WHOI-J.- Collins.key.pdf): Slides prepared for a January 27, 2017, workshop organized by WHOI's [Ocean Informatics initiative](http://www.whoi.edu/DoR/special-projects/ocean-informatics-working-group). Includes some advice on development of R packages for submission to [Bioconductor](http://bioconductor.org/), based on lessons learned from development of the [LOBSTAHS](https://github.com/vanmooylipidomics/LOBSTAHS/) package. Final few slides contain links to some Internet resources that cover package documentation and best practices for open-source software development.
+
+### Truly miscellaneous
+<hr>
 &raquo; [Communicating Under a Cold Sun](http://web.whoi.edu/coldsuncommunication): Blog I maintained during my two seasons at [Palmer Station](https://www.nsf.gov/geo/plr/support/palmerst.jsp) in Antarctica.  
 &raquo; The [Lightsuit Segment](https://vimeo.com/108679294) from AFTERGLOW   
 &raquo; Fishing reports for Cape Cod and environs: [On the Water](http://www.onthewater.com/regions/cape-cod-buzzards-bay/) | [Salty Cape](http://saltycape.com/)  

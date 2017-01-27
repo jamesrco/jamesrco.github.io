@@ -28,6 +28,8 @@ Visit me on [GitHub](https://github.com/jamesrco). Also the [main contributor he
 &raquo; The [Biological and Chemical Oceanography Data Management Office (BCO-DMO)](http://www.bco-dmo.org/). Also, [some pointers](http://www.bco-dmo.org/submitting-data-spreadsheet) for cocercing dates, times, geographical positions, and other data into an acceptable format for upload to BCO-DMO.  
 &raquo; [Geoscience Papers of the Future Initiative](http://www.ontosoft.org/gpf/). If you can, attend a [training session](http://www.ontosoft.org/gpf/training-sessions).  
 &raquo; The [Software Carpentry](http://software-carpentry.org/) project.
+&raquo; [Some slides](http://www.whoi.edu/fileserver.do?id=237404&pt=2&p=66787) from a good talk at WHOI by [C. Titus Brown](http://ivory.idyll.org/blog/) on scientific workflows in Python. Talk was sponsored by WHOI's [Ocean Informatics initiative](http://www.whoi.edu/DoR/special-projects/ocean-informatics-working-group).
+&raquo; [Some modest advice about open-source software development](/assets/slides/20170127_Some-thoughts-on-OS-software-dev't-WHOI-J.- Collins.key.pdf): Slides I prepared for a January 27, 2017, workshop organized by WHOI's [Ocean Informatics initiative](http://www.whoi.edu/DoR/special-projects/ocean-informatics-working-group). Includes some advice on development of R packages for submission to [Bioconductor](http://bioconductor.org/), based on lessons learned from development of the [LOBSTAHS](https://github.com/vanmooylipidomics/LOBSTAHS/) package. Final few slides contain links to some Internet resources that cover package documentation and best practices for open-source software development.
 &nbsp;  
 &nbsp;  
 
