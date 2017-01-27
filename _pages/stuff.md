@@ -10,7 +10,8 @@ A loosely-organized jumble of things I like, things in which I am interested, th
 
 ### Slides from talks
 <hr>
-&raquo; [Some modest advice about open-source software development](/assets/slides/20170127_Some-thoughts-on-OS-software-dev't-WHOI-J.- Collins.key.pdf): Slides prepared for a January 27, 2017, workshop organized by WHOI's [Ocean Informatics initiative](http://www.whoi.edu/DoR/special-projects/ocean-informatics-working-group). Includes some advice on development of R packages for submission to [Bioconductor](http://bioconductor.org/), based on lessons learned from development of the [LOBSTAHS](https://github.com/vanmooylipidomics/LOBSTAHS/) package. Final few slides contain links to some Internet resources that cover package documentation and best practices for open-source software development.
+&raquo; [Some modest advice about open-source software development](/assets/slides/20170127_Some-thoughts-on-OS-software-dev't-WHOI-J.- Collins.key.pdf): Slides prepared for a January 27, 2017, workshop organized by WHOI's [Ocean Informatics initiative](http://www.whoi.edu/DoR/special-projects/ocean-informatics-working-group). Includes some advice on development of R packages for submission to [Bioconductor](http://bioconductor.org/), based on lessons learned from development of the [LOBSTAHS](https://github.com/vanmooylipidomics/LOBSTAHS/) package. Final few slides contain links to some Internet resources that cover package documentation and best practices for open-source software development.  
+&nbsp;  
 
 ### Truly miscellaneous
 <hr>
