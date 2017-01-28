@@ -16,7 +16,7 @@ From 2004 to 2009, I served on active duty in the [United States Coast Guard](ht
 
 In summer 2010, I was deployed for two months to Mobile, Alabama, as part of the Coast Guard's response to the Deepwater Horizon drilling disaster. During the disaster, I served as director of an interagency team whose mission was to find and identify residual oil that had accumulated beneath the ocean's surface in the coastal waters of Mississippi, Alabama, and Florida.
 
-In a brief previous life, I worked as a newspaper journalist at the [Boston Globe](http://www.bostonglobe.com/), [Albany Times Union](http://www.timesunion.com), and [St. Louis Post-Dispatch](http://www.stltoday.com/). I graduated from [Yale College](http://www.yale.edu) in 2004 with a master's degree in political science.
+In a brief previous life, I worked as a newspaper journalist at the [Boston Globe](http://www.bostonglobe.com/), [Albany Times Union](http://www.timesunion.com), and [St. Louis Post-Dispatch](http://www.stltoday.com/). I graduated from [Yale College](http://www.yale.edu) in 2004 with a degree in political science.
 
 I hold a 100-ton commercial Coast Guard master's license (near coastal waters, with towing endorsement) and I am a certified Critical Incident Stress Management (CISM) counselor.
 
