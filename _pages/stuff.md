@@ -5,7 +5,7 @@ permalink: /stuff/
 ---
 ## Miscellany
 <hr>
-A loosely-organized jumble of things I like, things in which I am interested, things in which I feel others might be interested, things I've found on the Internet, and slides for talks I've given.
+A loosely-organized jumble of things I like, things in which I am interested, things in which I feel others might be interested, things I've found on the Internet, and slides for talks I've given.  
 &nbsp;  
 
 ### Slides from talks
