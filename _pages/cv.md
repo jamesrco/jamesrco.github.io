@@ -14,7 +14,7 @@ View: <a href="/assets/Collins_James_CV_web_20170121.pdf">PDF of full CV</a> | <
 <br>Chemical Oceanography, February 2017
 <br>Advisor: <a href="http://www.whoi.edu/page.do?pid=80356">Dr. Ben Van Mooy</a>
 <br>Thesis: "The remineralization of marine organic matter by diverse biological and abiotic processes"
-<br>&raquo; Download: <a href="http://jamesrco.github.io/assets/Collins_thesis.pdf">PDF of thesis</a> | <a href="https://github.com/jamesrco/LipidPhotoOxBox">code and data</a></p>
+<br>&raquo; Access to: <a href="http://dx.doi.org/10.1575/1912/8721">PDF of thesis</a> | <a href="https://github.com/jamesrco/LATEX_thesis/blob/master/README.md">code and data</a> | <a href="https://github.com/jamesrco/LATEX_thesis">LaTeX files</a> to compile from scratch </p>
 
 <p class="hangingIndent">
 2011<span style="display:inline-block; width: 1.78em;"></span><b>M.E.Sc., Marine Biogeochemistry, Yale School of Forestry & Environmental Studies</b>
@@ -31,7 +31,8 @@ View: <a href="/assets/Collins_James_CV_web_20170121.pdf">PDF of full CV</a> | <
 2017 &#8211; present&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Moore/Sloan Data Science & WRF Innovation Postdoctoral Fellow, eScience Institute and Sch. of Oceanography, Univ. of Washington</p>
 <p class="hangingIndentmore">
 2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Postdoctoral Investigator, Dept. Mar. Chem. & Geochem, Woods Hole Ocean. Inst.</p>
-<p class="hangingIndentmore">2011 &#8211; 2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research Assistant, Dept. Mar. Chem. & Geochem, Woods Hole Ocean. Inst.</p>
+<p class="hangingIndentmore">
+2011 &#8211; 2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research Assistant, Dept. Mar. Chem. & Geochem, Woods Hole Ocean. Inst.</p>
 &nbsp;
 
 ### Honors and Awards
@@ -52,7 +53,7 @@ John A. MacLean Scholarship, Yale School of Forestry & Environmental Studies (de
 <p class="hangingIndent">
 2004&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Montaigne Prize, Yale College, for excellence in spoken and written French</p>
 <p class="hangingIndent">
-2000&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Golub Foundation Founder's Scholarship, Yale College<br><br>
+2000&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Golub Foundation Founder's Scholarship, Yale College<br>
 William A. Henry III Scholarship, Yale College</p>
 &nbsp;
 
@@ -63,7 +64,7 @@ William A. Henry III Scholarship, Yale College</p>
 
 ### Software
 <hr>
-<p class="hangingIndent"><b>Collins, J. R.</b>, B. R. Edwards, Helen F. Fredricks, and B. A. S. Van Mooy. 2017. LOBSTAHS: Lipid and Oxylipin Biomarker Screening through Adduct Hierarchy Sequences. R package version 1.1.1; Available at <a href="https://github.com/vanmooylipidomics/LOBSTAHS">https://github.com/vanmooylipidomics/LOBSTAHS</a> or via <a href="http://bioconductor.org/packages/LOBSTAHS">Bioconductor</a></p>
+<p class="hangingIndent"><b>Collins, J. R.</b>, B. R. Edwards, Helen F. Fredricks, and B. A. S. Van Mooy. 2017. LOBSTAHS: Lipid and Oxylipin Biomarker Screening through Adduct Hierarchy Sequences. R package version 1.1.4; Available at <a href="https://github.com/vanmooylipidomics/LOBSTAHS">https://github.com/vanmooylipidomics/LOBSTAHS</a> or (production version) via <a href="http://bioconductor.org/packages/LOBSTAHS">Bioconductor</a></p>
 &nbsp;
 
 ### Publications (Other; Non-Refereed)
