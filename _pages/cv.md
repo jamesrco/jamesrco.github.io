@@ -30,6 +30,8 @@ View: <a href="/assets/Collins_James_CV_web_20170121.pdf">PDF of full CV</a> | <
 <p class="hangingIndentmore">
 2017 &#8211; present&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Moore/Sloan Data Science & WRF Innovation Postdoctoral Fellow, eScience Institute and Sch. of Oceanography, Univ. of Washington</p>
 <p class="hangingIndentmore">
+2017 &#8211; present&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Guest Investigator, Dept. Mar. Chem. & Geochem, Woods Hole Ocean. Inst.</p>
+<p class="hangingIndentmore">
 2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Postdoctoral Investigator, Dept. Mar. Chem. & Geochem, Woods Hole Ocean. Inst.</p>
 <p class="hangingIndentmore">
 2011 &#8211; 2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research Assistant, Dept. Mar. Chem. & Geochem, Woods Hole Ocean. Inst.</p>
@@ -88,6 +90,8 @@ William A. Henry III Scholarship, Yale College</p>
 
 ### Conference Presentations and Posters
 <hr>
+
+<p class="hangingIndent">Becker, K. W., <b>J. R. Collins</b>, H. F. Fredricks, J. E. Ossolinski, A. E. White, D. J. Repeta, and B. A. S. Van Mooy. February 2017. The microbial lipidome of the oligotrophic North Pacific Subtropical Gyre. Oral presentation. Ocean Sciences Meeting, Honolulu, HI.</p>
 
 <p class="hangingIndent"><b>Collins, J. R.</b>, B. R. Edwards, K. W. Becker, H. F. Fredricks, and B. A. S. Van Mooy. January 2017. Discovery and identification of oxidative stress biomarkers in marine phytoplankton using a new, open-source R package for lipidomics. Poster. Winter meeting of the Federation of Earth Science Information Partners (ESIP), Bethesda, MD. &raquo; <a href="/assets/posters/Collins_ESIP_Winter_2017.pdf">PDF</a></p>
 
