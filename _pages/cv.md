@@ -22,7 +22,7 @@ View: <a href="/assets/Collins_James_CV_web_20170412.pdf">PDF of full CV</a> | <
 <br>Thesis: "Estimates of new and total productivity in central Long Island Sound from in situ measurements of nitrate and dissolved oxygen"</p>
 
 <p class="hangingIndent">
-2011<span style="display:inline-block; width: 1.78em;"></span><b>B.A., Political Science, Yale College (with distinction)</b></p>
+2004<span style="display:inline-block; width: 1.78em;"></span><b>B.A., Political Science, Yale College (with distinction)</b></p>
 <br>
 
 ### Professional Scientific Experience
