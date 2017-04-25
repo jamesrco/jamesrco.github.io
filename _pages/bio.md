@@ -6,7 +6,7 @@ permalink: /bio/
 ## About me
 <hr>
 <img src="/images/banner/JC_profile_testphoto.jpg" class="prophoto-img">
-I am a marine geochemist, oceanographer, and data scientist currently based at the University of Washington. My research has taken me to Antarctica (twice; check out my blog, [here](http://web.whoi.edu/coldsuncommunication)) and throughout the world's oceans on various research vessels.
+I am a marine geochemist, oceanographer and data scientist currently based at the University of Washington. My research has taken me to Antarctica (twice; check out my blog, [here](http://web.whoi.edu/coldsuncommunication)) and throughout the world's oceans on various research vessels.
 
 My [research](/research/) explores the various biological and abiotic processes that degrade and remineralize organic matter in the surface ocean. I am interested in both anthropogenic and natural sources of stress to the microorganisms (algae and bacteria) that are the foundation of marine ecosystems. In testing hypotheses about how these ecosystems function, I develop and apply novel, [open-source](/data_code/) computational approaches and software tools for data discovery.
 
