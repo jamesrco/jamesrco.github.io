@@ -4,13 +4,14 @@ title: CV
 permalink: /cv/
 ---
 ## Curriculum vitae (abbreviated)
-View: <a href="/assets/Collins_James_CV_web_20170412.pdf">PDF of full CV</a> | <a href="/publications/">Publications</a> (on separate page)
+View: <a href="/assets/Collins_James_CV_web_20170427.pdf">PDF of full CV</a> | <a href="/publications/">Publications</a> (on separate page)
 <br><br>
 
 ### Education
 <hr>
 <p class="hangingIndent">
-2017<span style="display:inline-block; width: 1.78em;"></span><b>Ph.D., MIT/WHOI Joint Program in Oceanography/Applied Ocean Science and Engineering</b>
+2017<span style="display:inline-block; width: 1.78em;"></span><b>Ph.D., Massachusetts Institute of Technology and Woods Hole Oceanographic Institution</b>
+<br>Joint Program in Oceanography/Applied Ocean Science and Engineering
 <br>Chemical Oceanography, February 2017
 <br>Advisor: <a href="http://www.whoi.edu/page.do?pid=80356">Dr. Ben Van Mooy</a>
 <br>Thesis: "The remineralization of marine organic matter by diverse biological and abiotic processes"
@@ -28,7 +29,7 @@ View: <a href="/assets/Collins_James_CV_web_20170412.pdf">PDF of full CV</a> | <
 ### Professional Scientific Experience
 <hr>
 <p class="hangingIndentmore">
-2017 &#8211; present&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Moore/Sloan Data Science & WRF Innovation Postdoctoral Fellow, eScience Institute and Sch. of Oceanography, Univ. of Washington</p>
+2017 &#8211; present&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Moore/Sloan & WRF Innovation in Data Science Postdoctoral Fellow, eScience Institute and Sch. of Oceanography, Univ. of Washington</p>
 <p class="hangingIndentmore">
 2017 &#8211; present&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Guest Investigator, Dept. Mar. Chem. & Geochem, Woods Hole Ocean. Inst.</p>
 <p class="hangingIndentmore">
