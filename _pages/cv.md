@@ -4,23 +4,21 @@ title: CV
 permalink: /cv/
 ---
 ## Curriculum vitae (abbreviated)
-View: <a href="/assets/Collins_James_CV_web_20170427.pdf">PDF of full CV</a> | <a href="/publications/">Publications</a> (on separate page)
+View: <a href="/assets/Collins_James_CV_web_20170530.pdf">PDF of full CV</a> | <a href="/publications/">Publications</a> (on separate page)
 <br><br>
 
 ### Education
 <hr>
 <p class="hangingIndent">
-2017<span style="display:inline-block; width: 1.78em;"></span><b>Ph.D., Massachusetts Institute of Technology and Woods Hole Oceanographic Institution</b>
-<br>Joint Program in Oceanography/Applied Ocean Science and Engineering
-<br>Chemical Oceanography, February 2017
+2017<span style="display:inline-block; width: 1.78em;"></span><b>Ph.D., Chemical Oceanography, MIT/WHOI Joint Program in Oceanography</b>
+<br>Thesis title: "The remineralization of marine organic matter by diverse biological and abiotic processes"
 <br>Advisor: <a href="http://www.whoi.edu/page.do?pid=80356">Dr. Ben Van Mooy</a>
-<br>Thesis: "The remineralization of marine organic matter by diverse biological and abiotic processes"
 <br>&raquo; Access to: <a href="http://dx.doi.org/10.1575/1912/8721">PDF of thesis</a> | <a href="https://github.com/jamesrco/LATEX_thesis/blob/master/README.md">code and data</a> | <a href="https://github.com/jamesrco/LATEX_thesis">LaTeX files</a> to compile from scratch </p>
 
 <p class="hangingIndent">
 2011<span style="display:inline-block; width: 1.78em;"></span><b>M.E.Sc., Marine Biogeochemistry, Yale School of Forestry & Environmental Studies</b>
-<br>Advisor: <a href="https://environment.yale.edu/profile/raymond/">Dr. Pete Raymond</a>  
-<br>Thesis: "Estimates of new and total productivity in central Long Island Sound from in situ measurements of nitrate and dissolved oxygen"</p>
+<br>Thesis title: "Estimates of new and total productivity in central Long Island Sound from in situ measurements of nitrate and dissolved oxygen"
+<br>Advisor: <a href="https://environment.yale.edu/profile/raymond/">Dr. Pete Raymond</a></p>
 
 <p class="hangingIndent">
 2004<span style="display:inline-block; width: 1.78em;"></span><b>B.A., Political Science, Yale College (with distinction)</b></p>
@@ -29,13 +27,13 @@ View: <a href="/assets/Collins_James_CV_web_20170427.pdf">PDF of full CV</a> | <
 ### Professional Scientific Experience
 <hr>
 <p class="hangingIndentmore">
-2017 &#8211; present&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Moore/Sloan & WRF Innovation in Data Science Postdoctoral Fellow, eScience Institute and Sch. of Oceanography, Univ. of Washington</p>
+2017 &#8211; present&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Moore/Sloan & WRF Innovation in Data Science Postdoctoral Fellow, eScience Institute and School of Oceanography, Univ. of Washington</p>
 <p class="hangingIndentmore">
-2017 &#8211; present&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Guest Investigator, Dept. Mar. Chem. & Geochem, Woods Hole Ocean. Inst.</p>
+2017 &#8211; present&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Guest Investigator, Dept. Marine Chemistry & Geochemistry, Woods Hole Oceanographic Inst.</p>
 <p class="hangingIndentmore">
-2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Postdoctoral Investigator, Dept. Mar. Chem. & Geochem, Woods Hole Ocean. Inst.</p>
+2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Postdoctoral Investigator, Dept. Marine Chemistry & Geochemistry, Woods Hole Oceanographic Inst.</p>
 <p class="hangingIndentmore">
-2011 &#8211; 2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research Assistant, Dept. Mar. Chem. & Geochem, Woods Hole Ocean. Inst.</p>
+2011 &#8211; 2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research Assistant, Dept. Marine Chemistry & Geochemistry, Woods Hole Oceanographic Inst.</p>
 &nbsp;
 
 ### Honors and Awards
@@ -46,6 +44,8 @@ View: <a href="/assets/Collins_James_CV_web_20170427.pdf">PDF of full CV</a> | <
 2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Federation of Earth Science Information Partners (ESIP) Student Fellow, Data Stewardship Cluster</p>
 <p class="hangingIndent">
 2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Invited Participant, DISCO XXV (Dissertations Symposium on Chemical Oceanography)</p>
+<p class="hangingIndent">
+2014&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;U.S. Antarctica Service Medal</p>
 <p class="hangingIndent">
 2012&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EPA Science to Achieve Results (STAR) Graduate Fellowship</p>
 <p class="hangingIndent">
