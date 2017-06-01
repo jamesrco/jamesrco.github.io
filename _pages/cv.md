@@ -10,7 +10,7 @@ View: <a href="/assets/Collins_James_CV_web_20170530.pdf">PDF of full CV</a> | <
 ### Education
 <hr>
 <p class="hangingIndent">
-2017<span style="display:inline-block; width: 1.78em;"></span><b>Ph.D., Chemical Oceanography, MIT/WHOI Joint Program in Oceanography</b>
+2017<span style="display:inline-block; width: 1.78em;"></span><b>Ph.D., Chemical Oceanography, MIT/WHOI Joint Program</b>
 <br>Thesis title: "The remineralization of marine organic matter by diverse biological and abiotic processes"
 <br>Advisor: <a href="http://www.whoi.edu/page.do?pid=80356">Dr. Ben Van Mooy</a>
 <br>&raquo; Access to: <a href="http://dx.doi.org/10.1575/1912/8721">PDF of thesis</a> | <a href="https://github.com/jamesrco/LATEX_thesis/blob/master/README.md">code and data</a> | <a href="https://github.com/jamesrco/LATEX_thesis">LaTeX files</a> to compile from scratch </p>
@@ -21,7 +21,7 @@ View: <a href="/assets/Collins_James_CV_web_20170530.pdf">PDF of full CV</a> | <
 <br>Advisor: <a href="https://environment.yale.edu/profile/raymond/">Dr. Pete Raymond</a></p>
 
 <p class="hangingIndent">
-2004<span style="display:inline-block; width: 1.78em;"></span><b>B.A., Political Science, Yale College (with distinction)</b></p>
+2004<span style="display:inline-block; width: 1.78em;"></span><b>B.A., Political Science, Yale College</b></p>
 <br>
 
 ### Professional Scientific Experience
