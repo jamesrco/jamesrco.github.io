@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 ## Curriculum vitae (abbreviated)
-View: <a href="/assets/Collins_James_CV_web_20170710.pdf">PDF of full CV</a> | <a href="/publications/">Publications</a> (on separate page)
+View: <a href="/assets/Collins_James_CV_web_20171227.pdf">PDF of full CV</a> | <a href="/publications/">Publications</a> (on separate page)
 <br><br>
 
 ### Education
@@ -67,7 +67,7 @@ William A. Henry III Scholarship, Yale College</p>
 
 ### Software
 <hr>
-<p class="hangingIndent"><b>Collins, J. R.</b>, B. R. Edwards, Helen F. Fredricks, and B. A. S. Van Mooy. 2017. LOBSTAHS: Lipid and Oxylipin Biomarker Screening through Adduct Hierarchy Sequences. R package version 1.2.0; Available at <a href="https://github.com/vanmooylipidomics/LOBSTAHS">https://github.com/vanmooylipidomics/LOBSTAHS</a> (latest beta) or via <a href="http://bioconductor.org/packages/LOBSTAHS">Bioconductor</a> (production version)</p>
+<p class="hangingIndent"><b>Collins, J. R.</b>, B. R. Edwards, Helen F. Fredricks, and B. A. S. Van Mooy. 2017. LOBSTAHS: Lipid and Oxylipin Biomarker Screening through Adduct Hierarchy Sequences. R package version 1.3.7; Available at <a href="https://github.com/vanmooylipidomics/LOBSTAHS">https://github.com/vanmooylipidomics/LOBSTAHS</a> (latest beta) or via <a href="http://bioconductor.org/packages/LOBSTAHS">Bioconductor</a> (production version)</p>
 &nbsp;
 
 ### Publications (Other; Non-Refereed)
@@ -92,7 +92,11 @@ William A. Henry III Scholarship, Yale College</p>
 ### Conference Presentations and Posters
 <hr>
 
-<p class="hangingIndent">Becker, K. W., <b>J. R. Collins</b>, H. F. Fredricks, J. E. Ossolinski, A. E. White, D. J. Repeta, and B. A. S. Van Mooy. February 2017. The microbial lipidome of the oligotrophic North Pacific Subtropical Gyre. Oral presentation. Ocean Sciences Meeting, Honolulu, HI.</p>
+<p class="hangingIndent">Fulton, J. M., P. Herckes, M. P. Fraser, <b>J. R. Collins</b>, and B. A. S. Van Mooy. December 2017. Microbial biomarkers for native and agricultural soil inputs to atmospheric particulate matter. Poster. American Geophysical Union Fall Meeting, New Orleans, LA.</p>
+
+<p class="hangingIndent">Bowman, J. S., <b>J. R. Collins</b>, R. Gast, C. M. Hansel, B. A. S. Van Mooy, and H. W. Ducklow. July 2017. Patterns in microbial gene expression during the transition from winter to spring along the western Antarctic Peninsula. Oral presentation. SCAR Biology Symposium, Scientific Committee on Antarctic Research, Leuven, Belgium.</p>
+
+<p class="hangingIndent">Becker, K. W., <b>J. R. Collins</b>, H. F. Fredricks, J. E. Ossolinski, A. E. White, D. J. Repeta, and B. A. S. Van Mooy. February 2017. The microbial lipidome of the oligotrophic North Pacific Subtropical Gyre. Oral presentation. ASLO Aquatic Sciences Meeting, Honolulu, HI.</p>
 
 <p class="hangingIndent"><b>Collins, J. R.</b>, B. R. Edwards, K. W. Becker, H. F. Fredricks, and B. A. S. Van Mooy. January 2017. Discovery and identification of oxidative stress biomarkers in marine phytoplankton using a new, open-source R package for lipidomics. Poster. Winter meeting of the Federation of Earth Science Information Partners (ESIP), Bethesda, MD. &raquo; <a href="/assets/posters/Collins_ESIP_Winter_2017.pdf">PDF</a></p>
 
