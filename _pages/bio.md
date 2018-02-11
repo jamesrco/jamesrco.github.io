@@ -6,9 +6,9 @@ permalink: /bio/
 ## About me
 <hr>
 <img src="/images/banner/JC_profile_testphoto.jpg" class="prophoto-img">
-I am a marine geochemist, oceanographer and data scientist currently based at the University of Washington. My research has taken me to Antarctica (three times; check out my blog, [here](http://web.whoi.edu/coldsuncommunication)) and throughout the world's oceans on various research vessels.
+I am a marine geochemist, oceanographer and data scientist based at the University of Washington. My research has taken me to Antarctica (three times; check out my blog, [here](http://web.whoi.edu/coldsuncommunication)) and throughout the world's oceans on various research vessels.
 
-My [research](/research/) explores the various biological and abiotic processes that degrade and remineralize organic matter in the surface ocean. I am interested in both anthropogenic and natural sources of stress to the microorganisms (algae and bacteria) that are the foundation of marine ecosystems. In testing hypotheses about how these ecosystems function, I develop and apply novel, [open-source](/data_code/) computational approaches and software tools for data discovery.
+My [research](/research/) examines the various biological and abiotic processes that degrade and remineralize organic matter in the surface ocean. I am interested in both anthropogenic and natural sources of stress to the microorganisms (algae and bacteria) that are the foundation of marine ecosystems. In testing hypotheses about how these ecosystems function, I develop and apply novel, [open-source](/data_code/) computational approaches and software tools for data discovery.
 
 I completed my Ph.D. studies in the [MIT/WHOI Joint Program](http://mit.whoi.edu/), where I worked with [Dr. Ben Van Mooy](http://www.whoi.edu/page.do?pid=80356). Before moving to Woods Hole, I earned a master's degree in environmental science from the [Yale School of Forestry and Environmental Studies](http://environment.yale.edu). In my research there, I worked with [Dr. Peter Raymond](https://environment.yale.edu/profile/raymond/).
 

@@ -67,7 +67,11 @@ William A. Henry III Scholarship, Yale College</p>
 
 ### Software
 <hr>
-<p class="hangingIndent"><b>Collins, J. R.</b>, B. R. Edwards, Helen F. Fredricks, and B. A. S. Van Mooy. 2017. LOBSTAHS: Lipid and Oxylipin Biomarker Screening through Adduct Hierarchy Sequences. R package version 1.3.7; Available at <a href="https://github.com/vanmooylipidomics/LOBSTAHS">https://github.com/vanmooylipidomics/LOBSTAHS</a> (latest beta) or via <a href="http://bioconductor.org/packages/LOBSTAHS">Bioconductor</a> (production version)</p>
+<p class="hangingIndent"><b>Collins, J. R.</b>, B. R. Edwards, Helen F. Fredricks, and B. A. S. Van Mooy. 2017. LOBSTAHS: Lipid and Oxylipin Biomarker Screening through Adduct Hierarchy Sequences. R package version 1.5.0; Available at <a href="https://github.com/vanmooylipidomics/LOBSTAHS">https://github.com/vanmooylipidomics/LOBSTAHS</a> (latest beta) or via <a href="http://bioconductor.org/packages/LOBSTAHS">Bioconductor</a> (production version)</p>
+&nbsp;
+
+### Patents
+<hr><p class="hangingIndent">Adduct-based system and methods for analysis and identification of mass spectrometry data. <i>U.S. Patent Application No. 15/613,187.</i> <b>Collins, J. R.</b>, B. A. S. Van Mooy, Helen F. Fredricks, and B. R. Edwards. 2017.</p>
 &nbsp;
 
 ### Publications (Other; Non-Refereed)
@@ -92,6 +96,7 @@ William A. Henry III Scholarship, Yale College</p>
 ### Conference Presentations and Posters
 <hr>
 
+<p class="hangingIndent"><b>J. R. Collins</b>, H. F. Fredricks, J. S. Bowman, C. P. Ward, C. Moreno, K. Longnecker, A. Marchetti, C. M. Hansel, H. W. Ducklow, and B. A. S. Van Mooy. February 2018. Photooxidation of membrane lipids in marine plankton: A biogeochemically significant process for carbon turnover in coastal surface waters of West Antarctica. Oral presentation. Ocean Sciences Meeting, Portland, OR.</p><p class="hangingIndent">C. P. Laber, J. E. Hunter, A. F. Carvalho, <b>J. R. Collins</b>, E. Hunter, B. Schieler, E. Boss, K. More, M. Frada, K. Thamatrakoln, C. Brown, C. M. L. Haramaty, J. E. Ossolinski, H. F. Fredricks, J. I. Nissimov, R. Gardella, U. Sheyn, Y. Lehahn, R. J. Chant, A. M. Martins, M. J. L. Coolen, A. Vardi, G. R. DiTullio, B. A. S. Van Mooy, and K. D. Bidle. Coccolithovirus infection enhances vertical carbon flux in the North Atlantic. Oral presentation. Ocean Sciences Meeting, Portland, OR.</p>
 <p class="hangingIndent">Fulton, J. M., P. Herckes, M. P. Fraser, <b>J. R. Collins</b>, and B. A. S. Van Mooy. December 2017. Microbial biomarkers for native and agricultural soil inputs to atmospheric particulate matter. Poster. American Geophysical Union Fall Meeting, New Orleans, LA.</p>
 
 <p class="hangingIndent">Bowman, J. S., <b>J. R. Collins</b>, R. Gast, C. M. Hansel, B. A. S. Van Mooy, and H. W. Ducklow. July 2017. Patterns in microbial gene expression during the transition from winter to spring along the western Antarctic Peninsula. Oral presentation. SCAR Biology Symposium, Scientific Committee on Antarctic Research, Leuven, Belgium.</p>
