@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 ## Curriculum vitae (abbreviated)
-View: <a href="/assets/Collins_James_CV_web_20171227.pdf">PDF of full CV</a> | <a href="/publications/">Publications</a> (on separate page)
+View: <a href="/assets/Collins_James_CV_web_20180210.pdf">PDF of full CV</a> | <a href="/publications/">Publications</a> (on separate page)
 <br><br>
 
 ### Education
@@ -72,6 +72,14 @@ William A. Henry III Scholarship, Yale College</p>
 
 ### Patents
 <hr><p class="hangingIndent">Adduct-based system and methods for analysis and identification of mass spectrometry data. <i>U.S. Patent Application No. 15/613,187.</i> <b>Collins, J. R.</b>, B. A. S. Van Mooy, Helen F. Fredricks, and B. R. Edwards. 2017.</p>
+&nbsp;
+
+### Relevant Additional Scientific Training
+<hr><p class="hangingIndent">
+2013&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Algal Culturing Techniques Course, Provasoli-Guillard National Center for Marine Algae and Microbiota (NCMA). Bigelow Laboratory for Ocean Sciences, East Boothbay, ME.</p>
+
+<p class="hangingIndent">
+2009&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In Situ Water Quality Sensor Workshop, Consortium of Universities for the Advancement of Hydrologic Science (CUAHSI) and United States Geological Survey (USGS). University of Vermont, Burlington, VT.</p>
 &nbsp;
 
 ### Publications (Other; Non-Refereed)
