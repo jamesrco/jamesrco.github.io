@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 ## Curriculum vitae (abbreviated)
-View: <a href="/assets/Collins_James_CV_web_20180210.pdf">PDF of full CV</a> | <a href="/publications/">Publications</a> (on separate page)
+View: <a href="/assets/Collins_James_CV_web_20180427.pdf">PDF of full CV</a> | <a href="/publications/">Publications</a> (on separate page)
 <br><br>
 
 ### Education
