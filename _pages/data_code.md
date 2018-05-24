@@ -5,12 +5,12 @@ permalink: /data_code/
 ---
 ## Data & code
 <hr>
-Scientists should have free and open access to code, software, and data.<sup>[1](/data_code/#fn1)</sup> In the case of my [published research](/publications/), I have endeavored to provide all data and code necessary to replicate the data analysis and figures/tables on which I based my scientific conclusions. I am guided and inspired by the open access, documentation, and provenance standards of the [National Science Foundation](http://www.nsf.gov)'s [EarthCube](http://earthcube.org) project and the [Geoscience Papers of the Future](http://www.ontosoft.org/gpf/what-is-a-gpf) initiative.
+I believe that scientists should have free and open access to code, software, and data.<sup>[1](/data_code/#fn1)</sup> In the case of my [published research](/publications/), I have endeavored to provide all data and code necessary to replicate the data analysis and figures/tables on which I based my scientific conclusions. I am guided and inspired by the open access, documentation, and provenance standards of the [National Science Foundation](http://www.nsf.gov)'s [EarthCube](http://earthcube.org) project and the [Geoscience Papers of the Future](http://www.ontosoft.org/gpf/what-is-a-gpf) initiative.
 
 I've also attempted to make available on the Internet many other scripts and code to accomplish other scientific and non-scientific computing tasks. These are mostly in [R](https://www.r-project.org/) and, with apologies to those [without the $2,150 for a copy](http://www.mathworks.com/pricing-licensing/?prodcode=ML&s_iid=main_pl_ML_cta2), [MATLAB](http://www.mathworks.com/products/matlab/index.html). Most of my code (not all of it pretty or well-annotated) can be found in [repositories on GitHub](https://github.com/jamesrco). Because I am an [oceanographer and biogeochemist](/research/), the scripts pertain primarily to the geosciences. Among these is [a set of scripts for processing and analyzing bacterial production data](https://github.com/jamesrco/3H_Leu_BactProd) obtained using the <sup>3</sup>H-leucine incorporation method. (Some of the original BP code is [Krista Longnecker](http://www.whoi.edu/sbl/liteSite.do?litesiteid=90833)'s.)  
 &nbsp;  
 
-### Data and code for published projects
+### Data and code for published academic research projects
 <hr>
 <img src="/images/other/LOBSTAHS_TOC_Figure.png" class="small-inline-img">The LOBSTAHS software (Lipid and Oxylipin Biomarker Screening Through Adduct Hierarchy Sequences) is available at [https://github.com/vanmooylipidomics/LOBSTAHS](https://github.com/vanmooylipidomics/LOBSTAHS) and is also now part of [Bioconductor](http://bioconductor.org/packages/LOBSTAHS). A manuscript describing LOBSTAHS has been published in *Analytical Chemistry.* Links, citable DOI, etc., are on the [Publications](/publications/) page.
 

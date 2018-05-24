@@ -3,8 +3,8 @@ layout: page
 title: CV
 permalink: /cv/
 ---
-## Curriculum vitae (abbreviated)
-View: <a href="/assets/Collins_James_CV_web_20180427.pdf">PDF of full CV</a> | <a href="/publications/">Publications</a> (on separate page)
+## Curriculum vitae of academic preparation
+View: <a href="/assets/Collins_James_CV_web_20180427.pdf">PDF of full CV</a> | <a href="/publications/">Publications</a> (on separate page) | <a href="https://www.linkedin.com/in/james-collins-oceanography/">LinkedIn profile</a>
 <br><br>
 
 ### Education
@@ -24,7 +24,7 @@ View: <a href="/assets/Collins_James_CV_web_20180427.pdf">PDF of full CV</a> | <
 2004<span style="display:inline-block; width: 1.78em;"></span><b>B.A., Political Science, Yale College</b></p>
 <br>
 
-### Professional Scientific Experience
+### Professional Academic Experience
 <hr>
 <p class="hangingIndentmore">
 2017 &#8211; present&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Moore/Sloan & WRF Innovation in Data Science Postdoctoral Fellow, eScience Institute and School of Oceanography, Univ. of Washington</p>
@@ -60,12 +60,12 @@ John A. MacLean Scholarship, Yale School of Forestry & Environmental Studies (de
 William A. Henry III Scholarship, Yale College</p>
 &nbsp;
 
-### Professional Publications
+### Professional Academic Publications
 <hr>
 <p>Link to: <a href="/publications/">Publications</a> (separate page)</p>
 &nbsp;
 
-### Software
+### Software Authorship
 <hr>
 <p class="hangingIndent"><b>Collins, J. R.</b>, B. R. Edwards, Helen F. Fredricks, and B. A. S. Van Mooy. 2017. LOBSTAHS: Lipid and Oxylipin Biomarker Screening through Adduct Hierarchy Sequences. R package version 1.5.0; Available at <a href="https://github.com/vanmooylipidomics/LOBSTAHS">https://github.com/vanmooylipidomics/LOBSTAHS</a> (latest beta) or via <a href="http://bioconductor.org/packages/LOBSTAHS">Bioconductor</a> (production version)</p>
 &nbsp;
@@ -92,7 +92,7 @@ William A. Henry III Scholarship, Yale College</p>
 
 &nbsp;
 
-### Invited Talks and Lectures
+### Invited Academic Talks and Lectures
 <hr>
 <p class="hangingIndent"><b>Collins, J. R.</b>, B. R. Edwards, Helen F. Fredricks, K. W. Becker, and B. A. S. Van Mooy. September 2016. "Investigating oxidative stress and metabolic function in marine microbes using new a tool for environmental lipidomics." Bigelow Laboratory for Ocean Sciences, East Boothbay, ME.</p>
 

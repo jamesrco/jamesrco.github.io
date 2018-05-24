@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Research
+title: Academic Research
 permalink: /research/
 ---
-## Research interests
+## Academic research interests
 <hr>
 I am interested in the various biological and abiotic processes that degrade organic matter in the surface ocean. To this end, I use computational and experimental techniques to query biological processes such as aerobic respiration, mechanical processes such as dissolution and disaggregation of sinking particles, and abiotic processes such as photo-oxidation. I am interested in these degradation processes because they are often direct manifestations of the many sources of stress, both anthropogenic and natural, that microorganisms encounter in marine ecosystems.
 

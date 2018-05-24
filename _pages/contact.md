@@ -12,9 +12,7 @@ permalink: /contact/
     <li>&nbsp;</li>
   <li><i class="fa-li fa fa-instagram"></i>&nbsp;<a href="https://www.instagram.com/jamesrco/">@jamesrco</a></li>
     <li>&nbsp;</li>
-<li><i class="fa-li fa fa-pencil"></i>&nbsp;University of Washington<br>
-&nbsp;School of Oceanography<br>
-&nbsp;1503 NE Boat St.<br>
-&nbsp;UW Mailbox 357940<br>
-&nbsp;Seattle, WA 98195</li>
+<li><i class="fa-li fa fa-pencil"></i>&nbsp;Oregon Department of Environmental Quality<br>
+&nbsp;475 NE Bellevue Dr.<br>
+&nbsp;Bend, OR 97701</li>
 </ul>

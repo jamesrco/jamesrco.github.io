@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Publications
+title: Academic Publications
 permalink: /publications/
 ---
-## Publications
+## Academic Publications
 <p>View on: <a href="http://orcid.org"><img alt="ORCID logo" src="http://orcid.org/sites/default/files/images/orcid_16x16.png" width="16" height="16" /></a> <a href="http://orcid.org/0000-0002-5705-9682">ORCID</a> | <a href="https://scholar.google.com/citations?user=cnVF6N4AAAAJ&hl=en">Google Scholar</a> | <a href="http://www.scopus.com/authid/detail.uri?authorId=55390286300">Scopus</a></p>
 <p> Expand <i class="fa fa-plus-square"></i> to download, view abstract, obtain data & code </p>
 <hr>
