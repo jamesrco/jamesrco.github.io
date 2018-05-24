@@ -6,7 +6,7 @@ permalink: /bio/
 ## Jamie Collins, Ph.D.
 <hr>
 <img src="/images/banner/JC_profile_testphoto.jpg" class="prophoto-img">
-I currently a State On-Scene Coordinator for the [Oregon Department of Environmental Quality](http://www.oregon.gov/DEQ/Pages/index.aspx). In my role as SOSC, I supervise the initial response to spills/releases of oil and other hazardous materials in 18 counties east of the Cascades.
+I am currently a State On-Scene Coordinator for the [Oregon Department of Environmental Quality](http://www.oregon.gov/DEQ/Pages/index.aspx). In my role as SOSC, I supervise the response to spills and releases of oil and other hazardous materials in 18 counties east of the Cascades.
 
 My areas of expertise include the science and policy of oil spill response operations, the national security implications of climate change and natural disasters, and the integration of civilian disaster response operations with U.S. military capabilities.
 
