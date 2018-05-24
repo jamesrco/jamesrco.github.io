@@ -3,8 +3,8 @@ layout: page
 title: CV
 permalink: /cv/
 ---
-## Curriculum vitae of academic preparation
-View: <a href="/assets/Collins_James_CV_web_20180427.pdf">PDF of full CV</a> | <a href="/publications/">Publications</a> (on separate page) | <a href="https://www.linkedin.com/in/james-collins-oceanography/">LinkedIn profile</a>
+## Curriculum vitae: Academic preparation
+View: <a href="/assets/Collins_James_CV_web_20180427.pdf">PDF of full CV</a> | <a href="/publications/">Publications</a> (on separate page) | <a href="https://www.linkedin.com/in/james-collins-oceanography/">LinkedIn profile</a> (professional credentials and certificiations)
 <br><br>
 
 ### Education
