@@ -10,9 +10,9 @@ title: Jamie Collins
 author: James R. Collins
 email: james.r.collins@aya.yale.edu
 description: > # this means to ignore newlines until "baseurl:"
-    Personal website of Jamie Collins, Ph.D. student in chemical oceanography at the Massachusetts Institute of Technology (MIT) and Woods Hole Oceanographic Institution (WHOI). Research interests include lipid geochemistry, lipidomics, sources and effects of oxidative stress in marine microorganisms, mechanisms through which organic matter is oxidized in the surface ocean, and development of new instruments for making observations in the marine environment.
+  Personal website of Jamie Collins, Ph.D., expert in the science and policy of oil spill response operations, the national security implications of climate change and natural disasters, and the integration of civilian disaster response operations with U.S. military capabilities.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: “http://localhost:4000” # the base hostname & protocol for your site
+url: "http://localhost:4000" # the base hostname & protocol for your site
 twitter_username: jamesrco
 github_username:  jamesrco
 
