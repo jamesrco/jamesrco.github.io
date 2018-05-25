@@ -84,23 +84,12 @@
 }
 /* Carousel Overlay */
 .carousel-overlay {
+	margin: 0;
 	position: absolute;
-	bottom: 30px;
-	right: 0;
-	left: 0;
+	top: 50%;
+	transform: translate(0, -50%);
 	color: white;
 	text-shadow: 1px 1px 1px rgba(0,0,0,.75);
-}
-@media (min-width: 600px) {
-	.carousel-overlay {
-		position: absolute;
-		bottom: 100px;
-		top: 50px;
-		right: 0;
-		left: 0;
-		color: white;
-		text-shadow: 1px 1px 1px rgba(0,0,0,.75);
-	}
 }
 @media (min-width: 600px) {
     .carousel-overlay h1 {
