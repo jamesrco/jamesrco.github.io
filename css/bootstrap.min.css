@@ -4292,6 +4292,7 @@ textarea.input-group-sm>.input-group-btn>.btn {
 .navbar-collapse {
     padding-right: 15px;
     padding-left: 15px;
+    font-size: 1.5em;
     overflow-x: visible;
     -webkit-overflow-scrolling: touch;
     border-top: 1px solid transparent;
@@ -4304,6 +4305,7 @@ textarea.input-group-sm>.input-group-btn>.btn {
 @media (min-width: 768px) {
     .navbar-collapse {
         width: auto;
+        font-size: 1.0em;
         border-top: 0;
         -webkit-box-shadow: none;
         box-shadow: none
@@ -4436,7 +4438,7 @@ textarea.input-group-sm>.input-group-btn>.btn {
 .navbar-nav>li>a {
     padding-top: 0px; /* 10px */
     padding-bottom: 0px; /* 10px */
-    line-height: 20px
+    line-height: 1.5em;
 }
 @media (max-width: 767px) {
     .navbar-nav .open .dropdown-menu {
@@ -4454,7 +4456,8 @@ textarea.input-group-sm>.input-group-btn>.btn {
         padding: 5px 15px 5px 25px
     }
     .navbar-nav .open .dropdown-menu>li>a {
-        line-height: 20px
+        line-height: 1.5em;
+        font-size: 1.5em;
     }
     .navbar-nav .open .dropdown-menu>li>a:focus,
     .navbar-nav .open .dropdown-menu>li>a:hover {
