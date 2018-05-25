@@ -85,14 +85,23 @@
 /* Carousel Overlay */
 .carousel-overlay {
 	position: absolute;
-	bottom: 100px;
+	top: 50px;
+	bottom: 0px;
 	right: 0;
 	left: 0;
 	color: white;
 	text-shadow: 1px 1px 1px rgba(0,0,0,.75);
 }
-.carousel-overlay h1 {
-    font-size: 2.0em;
+@media (min-width: 600px) {
+	.carousel-overlay {
+		position: absolute;
+		bottom: 100px;
+		top: 50px;
+		right: 0;
+		left: 0;
+		color: white;
+		text-shadow: 1px 1px 1px rgba(0,0,0,.75);
+	}
 }
 @media (min-width: 600px) {
     .carousel-overlay h1 {
