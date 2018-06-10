@@ -24,12 +24,14 @@ View: <a href="/assets/Collins_James_CV_web_20180427.pdf">PDF of full CV</a> | <
 2004<span style="display:inline-block; width: 1.78em;"></span><b>B.A., Political Science, Yale College</b></p>
 <br>
 
-### Professional Academic Experience
+### Professional Experience
 <hr>
 <p class="hangingIndentmore">
-2017 &#8211; present&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Moore/Sloan & WRF Innovation in Data Science Postdoctoral Fellow, eScience Institute and School of Oceanography, Univ. of Washington</p>
+2018 &#8211; present&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;State On-Scene Coordinator, Oregon Dept. of Environmental Quality</p>
 <p class="hangingIndentmore">
 2017 &#8211; present&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Guest Investigator, Dept. Marine Chemistry & Geochemistry, Woods Hole Oceanographic Inst.</p>
+<p class="hangingIndentmore">
+2017 &#8211; 2018&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Moore/Sloan & WRF Innovation in Data Science Postdoctoral Fellow, eScience Institute and School of Oceanography, Univ. of Washington</p>
 <p class="hangingIndentmore">
 2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Postdoctoral Investigator, Dept. Marine Chemistry & Geochemistry, Woods Hole Oceanographic Inst.</p>
 <p class="hangingIndentmore">
