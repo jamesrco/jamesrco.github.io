@@ -3,18 +3,33 @@ layout: barebones
 title: Book Your Spot at Hosmer Point
 permalink: /wedding_acco/
 ---
-<img src="/images/other/weddingheader.png" width="600" align="center">
-<h3 style="font-family: &quot;Adobe Garamond Pro Regular&quot;; font-weight: 400; font-style: normal; line-height: 1.2; text-transform: uppercase; letter-spacing: 2.5px; font-size: 22.4px; color: rgb(65, 82, 112); margin: 0px;">Hosmer Point</h3>
+<div align="center">
+<img src="/images/other/weddingheader.png" width="500">
+</div>
+<br>
+<br>
+<h3 style="font-family: &quot;Adobe Garamond Pro Regular&quot;; font-weight: 400; font-style: normal; line-height: 1.2; text-transform: uppercase; letter-spacing: 2.5px; font-size: 22.4px; color: rgb(65, 82, 112); margin: 0px;">Book Your Spot at Camp</h3>
 
-<hr>
-<ul class="fa-ul">
-  <li><i class="fa-li fa fa-envelope"></i>&nbsp;<a href="mailto:james.r.collins@aya.yale.edu">james.r.collins(at)aya.yale.edu</a></li>
-  <li>&nbsp;</li>
-  <li><i class="fa-li fa fa-twitter-square"></i>&nbsp;<a href="https://twitter.com/jamesrco">@jamesrco</a></li>
-    <li>&nbsp;</li>
-  <li><i class="fa-li fa fa-instagram"></i>&nbsp;<a href="https://www.instagram.com/jamesrco/">@jamesrco</a></li>
-    <li>&nbsp;</li>
-<li><i class="fa-li fa fa-pencil"></i>&nbsp;Oregon Department of Environmental Quality<br>
-&nbsp;475 NE Bellevue Dr.<br>
-&nbsp;Bend, OR 97701</li>
-</ul>
+<br>
+<div style="font-family: &quot;Adobe Garamond Pro Regular&quot;; font-weight: 400; font-style: normal; line-height: 1.6; text-transform: none; letter-spacing: normal; font-size: 16.8px; color: rgb(65, 82, 112); margin: 0px;">
+You can book your spot at camp via PayPal using the form below. Select the number of nights here; during PayPal checkout, you'll be able to change the quantity to pay for more than one guest. You'll be automatically redirected back to our main wedding site after you finalize payment.
+<br>
+<br>
+If you don't have a PayPal account or would prefer to pay some other way, please just email us.
+<br>
+<br>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="AAHT4T88GSZPW">
+<table>
+<tr><td><input type="hidden" name="on0" value="No. of nights at Hosmer Point (cost per person):">No. of nights at Hosmer Point (cost per person):</td></tr><tr><td><select name="os0">
+<option value="One night -">One night - $40.00 USD</option>
+<option value="Both nights -">Both nights - $80.00 USD</option>
+</select> </td></tr>
+</table>
+<input type="hidden" name="currency_code" value="USD">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+</div>
