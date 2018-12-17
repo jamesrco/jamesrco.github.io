@@ -3,6 +3,7 @@ layout: barebones
 title: Book Your Spot at Hosmer Point
 permalink: /wedding_acco/
 ---
+<img src="/images/other/weddingheader.png" width="600" align="center">
 <h3 style="font-family: &quot;Adobe Garamond Pro Regular&quot;; font-weight: 400; font-style: normal; line-height: 1.2; text-transform: uppercase; letter-spacing: 2.5px; font-size: 22.4px; color: rgb(65, 82, 112); margin: 0px;">Hosmer Point</h3>
 
 <hr>
