@@ -1,6 +1,6 @@
 ---
 layout: barebones
-title: Book Your Spot at Hosmer Point
+title: Meredith & Jamie &mdash; Book Your Spot
 permalink: /wedding_acco/
 ---
 <div align="center">
@@ -12,7 +12,7 @@ permalink: /wedding_acco/
 
 <br>
 <div style="font-family: &quot;Adobe Garamond Pro Regular&quot;; font-weight: 400; font-style: normal; line-height: 1.6; text-transform: none; letter-spacing: normal; font-size: 16.8px; color: rgb(65, 82, 112); margin: 0px;">
-You can book your spot at camp via PayPal using the form below. Select the number of nights here; during PayPal checkout, you'll be able to change the quantity to pay for more than one guest. You'll be automatically redirected back to our main wedding site after you finalize payment.
+Book your spot via PayPal using the form below. Select the number of nights here; during PayPal checkout, you'll be able to change the quantity to pay for more than one guest. You'll be automatically redirected back to our main wedding site after you finalize payment.
 <br>
 <br>
 If you don't have a PayPal account or would prefer to pay some other way, please just email us.
