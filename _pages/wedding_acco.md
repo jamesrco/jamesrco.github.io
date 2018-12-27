@@ -12,7 +12,7 @@ permalink: /wedding_acco/
 
 <br>
 <div style="font-family: &quot;Adobe Garamond Pro Regular&quot;; font-weight: 400; font-style: normal; line-height: 1.6; text-transform: none; letter-spacing: normal; font-size: 16.8px; color: rgb(65, 82, 112); margin: 0px;">
-Book your spot via PayPal using the form below. Select the number of nights here; during PayPal checkout, you'll be able to change the quantity to pay for more than one guest. You'll be automatically redirected back to our main wedding site after you finalize payment. If you have any requests for specific cabin-mates, please indicate them here - we'll do our best to accomodate. At the very least, we promise to offer you a litany of questionable excuses about why we couldn't hook you up!
+Book your spot via PayPal using the form below. Select the number of nights here; once you hit "Buy Now," you'll be redirected to a secure site for PayPal checkout. At that time, you'll be able to change the quantity to pay for more than one guest. If you have any requests for specific cabin-mates, please indicate them here - we'll do our best to accomodate. At the very least, we promise to offer you a litany of questionable excuses about why we couldn't hook you up! You'll be automatically redirected back to our main wedding site after you finalize payment. 
 <br>
 <br>
 If you don't have a PayPal account or would prefer to pay some other way, please just email us.
