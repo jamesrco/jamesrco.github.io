@@ -5,7 +5,7 @@ permalink: /research/
 ---
 ## Academic research interests
 <hr>
-In my academic research, I am interested in the connections between climate change and national security, the science and policy of marine oil spill response, and the various biological and abiotic processes that degrade organic matter in marine and aquatic ecosystems. To this end, I use computational and experimental techniques to query biological processes such as aerobic respiration, mechanical processes such as dissolution and disaggregation of sinking particles, and abiotic processes such as photo-oxidation.
+In my academic research, I am interested in the connections between climate change and national security, the science and policy of marine oil spill response, and the various biological and abiotic processes that degrade organic matter and cycle nutrients in marine and aquatic ecosystems. To this end, I use computational and experimental techniques to query biological processes such as aerobic respiration, mechanical processes such as dissolution and disaggregation of sinking particles, and abiotic processes such as photo-oxidation.
 
 I am interested in these degradation processes because they are often direct manifestations of the many sources of stress, both anthropogenic and natural, that microorganisms encounter in marine and aquatic ecosystems. We can use the information we gain through study of these processes to tell us about the health of these ecosystems, and to inform the policies we might implement to preserve them.
 
